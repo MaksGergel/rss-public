@@ -1,742 +1,471 @@
-<rss version="2.0">
-<channel>
-<title>My Feed</title>
-<link>https://example.com</link>
-<description>Auto-feed</description>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>Mynet Video Content RSS</title>
+    <description>Video content for Mynet pages</description>
+    <link>https://www.mynet.com</link>
 <item>
-      <guid isPermaLink="true">https://www.mynet.com/eskisehir-de-hakeme-saldiri-kameraya-yansidi-hakem-kanlar-icinde-kaldi-453670-myspor</guid>
-      <pubDate>Tue, 02 Dec 2025 20:27:21 +0000</pubDate>
-      <title><![CDATA[Eskişehir'de hakeme saldırı kameraya yansıdı! Hakem kanlar içinde kaldı]]></title>
-      <description><![CDATA[Eskişehir'de, Birlikspor-Eskişehir Kolej futbol takımları arasında oynanan amatör küme karşılaşmasında hakeme yönelik saldırı anı kameralara yansıdı.]]></description>
-      <content:encoded><![CDATA[Eskişehir'de amatör küme maçında maçın hakemine saldırı gerçekleşti. 
-HAKEM KANLAR İÇİNDE KALDI!
-
-Eskişehir'de 30 Kasım 2025 tarihinde oynanan karşılaşma sırasında orta hakem Mesut Eren'e karşı Birlikspor teknik heyeti tarafından saldırı gerçekleşti. 
-
-Saldırı sonrasında kanlar içinde kalan hakemi rakip oyuncular ve heyeti kurtardı. Güvenlik güçlerinin olaya müdahale etmesiyle hakem sahadan çıkartılarak tedavisi için hastaneye kaldırıldı. Yaşanan bu anlar ise güvenlik kameralarına yansıdı.
-
-Olay sonrasında gözaltına alınan 2 şüpheli tutuklanarak cezaevine gönderildi.Kaynak: İHA &nbsp; | &nbsp; Bu içerik Burak Kavuncu tarafından yayına alınmıştır]]></content:encoded>
-      <link><![CDATA[https://www.mynet.com/eskisehir-de-hakeme-saldiri-kameraya-yansidi-hakem-kanlar-icinde-kaldi-453670-myspor]]></link>
-      <media:content url="https://imgrosetta.mynet.com.tr/file/22385377/22385377-1200x675.jpg" expression="full" width="1200" height="675" type="image/jpeg">
-        <media:description type="plain"><![CDATA[Eskişehir'de hakeme saldırı kameraya yansıdı! Hakem kanlar içinde kaldı]]></media:description>
-      </media:content>
-      <category>futbol</category>
-      <tag>tff-1-lig</tag>
-      <tag>futbol</tag>
-      <tag>spor</tag>
-    </item>
-<item>
-      <guid isPermaLink="true">https://haber.mynet.com/gazeteci-furkan-karabay-icin-tahliye-karari-iddianameyi-yirtti-110107256291</guid>
-      <pubDate>Tue, 02 Dec 2025 14:43:03 +0000</pubDate>
-      <title><![CDATA[Gazeteci Furkan Karabay için tahliye kararı! İddianameyi yırttı... Savcılık karara itiraz etti]]></title>
-      <description><![CDATA[Gazeteci Furkan Karabay bugün hakim karşısına çıktı. İddianameyi yırtarak savunma yapmayı reddeden Karabay için tahliye kararı verildi. Savcılık karara itiraz etti]]></description>
-      <content:encoded><![CDATA[Gazeteci Furkan Karabay’ın yargılandığı davada, savcılık mütalaasında Cumhurbaşkanı’na alenen hakaret”, üç defa zincirleme şekilde “terörle mücadelede görev almış kişileri hedef gösterme” ve “kamu görevlisine görevinden dolayı hakaret” suçlamalarından hapisle cezalandırılmasını ve tutukluluk halinin devamına talep etti.
-ELİNDEKİ İDDİANAMEYİ YIRTTI
-Karabay, elindeki iddianameyi yırtarak “Ben bu iddianameye karşı savunma yapmam. Ben bu iddianameyi sadece yırtarım. Savunma yapmayı reddediyorum” dedi.
-TAHLİYE KARARI
-20 gündür tutuklu bulunan Karabay için tahliye kararı çıktı.
-SAVCILIK İTİRAZ ETTİ
-Savcılık, 201 gün tutuklu kalan gazeteci Furkan Karabay hakkında verilen tahliye kararına itiraz etti]]></content:encoded>
-      <link><![CDATA[https://haber.mynet.com/gazeteci-furkan-karabay-icin-tahliye-karari-iddianameyi-yirtti-110107256291]]></link>
-      <media:content url="https://imgrosetta.mynet.com.tr/file/22380424/22380424-1200x675.png" expression="full" width="1200" height="675" type="image/jpeg">
-        <media:description type="plain"><![CDATA[Gazeteci Furkan Karabay için tahliye kararı! İddianameyi yırttı... Savcılık karara itiraz etti]]></media:description>
+      <guid isPermaLink="true">https://www.mynet.com/magazin/galeri/bir-zamanlar-cukurova-nin-gulten-i-selin-genc-evlendi-130100561976</guid>
+      <pubDate>Mon, 01 Dec 2025 05:03:31 +0000</pubDate>
+      <title><![CDATA['Bir Zamanlar Çukurova'nın 'Gülten'i Selin Genç evlendi!]]></title>
+      <description><![CDATA[Bir Zamanlar Çukurova'da 'Gülten' karakterine hayat veren Selin Genç, uzun süredir birlikte olduğu iş insanı sevgilisi Onur Alp Erol ile Budapeşte'de evlendi. Selin Genç'in gelinliği beğeni topladı.]]></description>
+      <content:encoded><![CDATA[31 yaşındaki güzel oyuncu, iş insanı sevgilisi Onur Alp Erol ile evlendi.  Bir süredir birlikte olan çift, Budapeşte'deki Türkiye Konsolosluğu'nda sadece yakınlarının katıldığı sade bir nikah töreniyle mutluluğa 'evet' dedi. Selin Genç'in sade ama iddialı gelinliği ise sosyal medyadan tam not aldı. Transparan detaylara sahip gelinlik beğeni topladı. Selin Genç sosyal medyadan "Kasımda aşk başkadır" notuyla nikah pozlarını da paylaştı.&nbsp; Oyuncu paylaşımında "Şimdi heyecanla bir sonraki bölümü bekliyoruz...&nbsp; Resmi düğün filmi! Baskı yok - ama zaten patlamış mısırımız var!" yazdı.]]></content:encoded>
+      <link><![CDATA[https://www.mynet.com/magazin/galeri/bir-zamanlar-cukurova-nin-gulten-i-selin-genc-evlendi-130100561976]]></link>
+      <media:content url="https://imgrosetta.mynet.com.tr/file/22358509/22358509-1200x675.png" expression="full" width="1200" height="675" type="image/jpeg">
+        <media:description type="plain"><![CDATA['Bir Zamanlar Çukurova'nın 'Gülten'i Selin Genç evlendi!]]></media:description>
       </media:content>
       <category>guncel</category>
       <tag>guncel</tag>
-      <tag>haber</tag>
+      <tag>magazin</tag>
     </item>
 <item>
-      <guid isPermaLink="true">https://finans.mynet.com/haber/detay/ekonomi/ito-duyurdu-fiyati-en-cok-artan-ve-azanlar-belli-oldu/523039</guid>
-      <pubDate>Tue, 02 Dec 2025 09:35:36 +0000</pubDate>
-      <title><![CDATA[İTO duyurdu: Fiyatı en çok artan ve azanlar belli oldu]]></title>
-      <description><![CDATA[İstanbul Ticaret Odası'ndan (İTO) İstanbul'da kasımdaki fiyat artışları ve azalışları ile ilgili açıklama geldi. İstanbul'da kasımda fiyatı en çok artan ürün sinema ve tiyatro bileti, en çok düşen ürün ise karnabahar oldu. İşte fiyatı en çok artan ve en çok azalan diğer ürünler...]]></description>
-      <content:encoded><![CDATA[İstanbul Ticaret Odası (İTO), kasım ayında perakende fiyatı en fazla artan ve azalan ürünleri açıkladı.
-Buna göre, kasımda bir önceki aya göre indekste yer alan 336 ana üründen 178'inin fiyatında artış izlenirken, 57 ürünün fiyatı azaldı.
+      <guid isPermaLink="true">https://www.mynet.com/magazin/murat-cemcir-oldu-mu-yasiyor-mu-hastaligi-ne-murat-cemcir-kac-yasinda-130100562045</guid>
+      <pubDate>Tue, 02 Dec 2025 03:59:38 +0000</pubDate>
+      <title><![CDATA[Murat Cemcir öldü mü yaşıyor mu? Hastalığı ne? Murat Cemcir kaç yaşında?]]></title>
+      <description><![CDATA[Ünlü oyuncu Murat Cemcir’in yoğun bakıma kaldırılması sonrası “Murat Cemcir öldü mü, yaşıyor mu?” sorusu gündeme geldi. İç kanama geçirdiği öğrenilen başarılı oyuncunun tedavisi hastanede sürüyor. Hastaneden Cemcir'in sağlık durumuna ilişkin açıklama geldi. İşte ayrıntılar...]]></description>
+      <content:encoded><![CDATA[‘İşler Güçler’, ‘Kardeş Payı’ ve ‘Düğün Dernek’ gibi unutulmaz yapımlarla milyonların sevgisini kazanan ünlü oyuncu Murat Cemcir’den kötü haber geldi. 2. Sayfa’da yer alan bilgilere göre başarılı oyuncu yoğun bakımda tedavi görüyor.  Gelişmenin ardından sosyal medyada “Murat Cemcir öldü mü?”, “Murat Cemcir’in sağlık durumu nasıl?”, “Murat Cemcir yaşıyor mu?” soruları hızla gündem oldu.
 
-GEÇEN AY FİYATI EN FAZLA ARTAN: SİNEMA VE TİYATRO BİLETİ
-Geçen ay fiyatı en fazla artan ürün yüzde 13 ile sinema ve tiyatro bileti oldu. Bunu yüzde 10,57 ile mercimek, yüzde 8,70 ile margarin, yüzde 8,47 ile fındık ezmesi, yüzde 7,87 ile kuru fasulye, yüzde 7,62 ile gofret ve yüzde 6,91 ile portakal izledi.
 
-Fiyatı en çok artan diğer ürünler ise yüzde 6,74 ile oyuncak, yüzde 6,70 ile zeytinyağı, yüzde 6,70 ile paketli toz tatlılar, yüzde 6,57 ile reçel ve yüzde 6,49 ile pirinç oldu.
-Geçen ay fiyatlar konserve mısırında yüzde 6,18, şampuanda yüzde 5,83, dondurulmuş börekte yüzde 5,48 ve nohutta yüzde 5,13 arttı.
+MURAT CEMCİR SAĞLIK DURUMU
+Geçtiğimiz çarşamba günü evinde rahatsızlanan Murat Cemcir’in ambulansla Maslak’taki özel bir hastaneye kaldırıldığı öğrenildi. İlk kontrollerde ünlü oyuncunun iç kanama geçirdiği tespit edildi. 2. Sayfa’nın paylaştığı habere göre Murat Cemcir’in tedavisi yoğun bakımda devam ediyor.
+Şu an için hayatını kaybettiğine dair bir bilgi bulunmuyor; Cemcir yaşıyor ancak sağlık durumu ciddiyetini koruyor.
 
-GEÇEN AY FİYATI EN ÇOK AZALAN: KARNABAHAR
-Kasımda bir önceki aya göre fiyatı en çok azalan ürün ise yüzde 45,91 ile karnabahar oldu. Onu yüzde 26,67 ile kıvırcık salata, yüzde 20,35 ile taze fasulye, yüzde 17,02 ile uçak biletleri, yüzde 15,92 ile pırasa, yüzde 13,25 ile ıspanak, yüzde 13,21 ile limon ve yüzde 11,84 ile dolmalık biber sofra malzemeleri izledi.
-
-Fiyatı en çok azalan diğer ürünler ise yüzde 11,52 ile mandalina, yüzde 10,21 ile erkek mont, yüzde 9,65 ile erkek kazak, yüzde 9,47 ile salatalık, yüzde 8,24 ile havuç, yüzde 7,85 ile üzüm, yüzde 5,58 ile muz ve yüzde 4,64 ile sivri biber oldu.
-Kaynak: AA &nbsp; | &nbsp; Bu içerik Hande Dağ tarafından yayına alınmıştır]]></content:encoded>
-      <link><![CDATA[https://finans.mynet.com/haber/detay/ekonomi/ito-duyurdu-fiyati-en-cok-artan-ve-azanlar-belli-oldu/523039]]></link>
-      <media:content url="https://imgrosetta.mynet.com.tr/file/22377613/22377613-1200x675.jpg" expression="full" width="1200" height="675" type="image/jpeg">
-        <media:description type="plain"><![CDATA[İTO duyurdu: Fiyatı en çok artan ve azanlar belli oldu]]></media:description>
+HASTANEDEN AÇIKLAMA GELDİ
+Oyuncu Murat Cemcir'in yoğun bakımda olduğu hastaneden açıklama geldi. Yapılan açıklamada, Cemcir için &quot;Divertikül kanaması ile hastanede, gereken müdahaleler yapıldı, yoğun bakımdan bugün çıkarılması bekleniyor, tedavisi devam ediyor&quot; ifadelerine yer verdi.
+MURAT CEMCİR YAŞI
+Son dönemde yaşadığı sağlık sorunuyla gündeme gelen Murat Cemcir, 30 Kasım 1976 tarihinde Tokat’ta dünyaya geldi.]]></content:encoded>
+      <link><![CDATA[https://www.mynet.com/magazin/murat-cemcir-oldu-mu-yasiyor-mu-hastaligi-ne-murat-cemcir-kac-yasinda-130100562045]]></link>
+      <media:content url="https://imgrosetta.mynet.com.tr/file/22366549/22366549-1200x675.png" expression="full" width="1200" height="675" type="image/jpeg">
+        <media:description type="plain"><![CDATA[Murat Cemcir öldü mü yaşıyor mu? Hastalığı ne? Murat Cemcir kaç yaşında?]]></media:description>
       </media:content>
-      <category>haber</category>
-      <tag>ekonomi</tag>
-      <tag>haber</tag>
-      <tag>finans</tag>
+      <category>guncel</category>
+      <tag>guncel</tag>
+      <tag>magazin</tag>
     </item>
 <item>
-      <guid isPermaLink="true">https://www.mynet.com/guney-asya-atlantis-e-dondu-tarihi-kriz-sayisiz-can-aldi-milyonlarca-insani-etkiledi-190101295833</guid>
-      <pubDate>Tue, 02 Dec 2025 12:19:22 +0000</pubDate>
-      <title><![CDATA[Güney Asya Atlantis'e döndü! "Tarihi kriz" sayısız can aldı: Milyonlarca insanı etkiledi]]></title>
-      <description><![CDATA[Güney Asya’yı etkisi altına alan aşırı yağışlar, Endonezya, Sri Lanka, Tayland ve Malezya’da büyük yıkıma yol açtı. Sel ve toprak kaymalarında ölenlerin sayısı binlere yükselirken, yüz binlerce kişi yerinden oldu. Bölge “tarihi bir insani kriz” ile karşı karşıya.]]></description>
-      <content:encoded><![CDATA[Güney Asya ülkelerinde şiddetli yağışların beraberinde getirdiği sel ve toprak kaymalarında bilanço ağırlaşıyor.
+      <guid isPermaLink="true">https://www.mynet.com/magazin/uzak-sehir-in-zerrin-i-dilin-doger-e-olum-tehdidi-savciliga-kostu-130100562009</guid>
+      <pubDate>Mon, 01 Dec 2025 08:37:49 +0000</pubDate>
+      <title><![CDATA[Uzak Şehir'in Zerrin'i Dilin Döğer'e ölüm tehdidi! Savcılığa koştu]]></title>
+      <description><![CDATA[Uzak Şehir'in sevilen oyuncularından Dilin Döğer kendisin gelen ölüm tehdidi ile korkuya kapıldı. Uzak Şehir'in Zerrin'i Dilin Döğer hemen suç duyurusunda bulundu.]]></description>
+      <content:encoded><![CDATA[Uzak Şehir oyuncularından Dilin Döğer talihsiz bir olay yaşadı. Dizide Zerrin karakterine hayat veren Döğer sosyal medyadan aldığı mesaj sonrası korkuya kapıldı.
+Dilin Döğer sosyal medya hesabı üzerinden kendisine hakaret içerikli paylaşım yapan kullanıcıyı takibe aldı. Takipçinin kendisini İngilizce yazıyla ölümle tehdit etmesi üzerine oyuncu soluğu adliyede aldı. Oyuncu gerçek adını ve fotoğrafını gizleyen kişi hakkında suç duyurusunda bulundu.
 
-Endonezya'nın Sumatra Adası'nda şiddetli muson yağışlarının yol açtığı sel ve toprak kaymalarında hayatını kaybedenlerin sayısı 753'e yükseldi. Endonezya Ulusal Afet Yönetim Ajansı (BNPB) tarafından yapılan açıklamada, 504 kişinin kayıp olduğunu bildirildi. Açıklamada, ülke genelinde yağışlardan 3,2 milyon kişinin etkilendiği aktarıldı.
+Sabah'tan Armağan Yılmaz'ın haberine göre; Döğer şikayet dilekçesinde, sosyal medya üzerinden kendisine hakaret edilerek ölümle tehdit edildiğini, paylaşımın kişilik haklarına saldırı niteliğinde olduğunu söyledi.
 
-&quot;TARİHİ BİR İNSANİ KRİZ&quot;
-Sri Lanka'da ise Afet Yönetim Merkezi'nden (DMC) yapılan açıklamada, Ditwah Kasırgası'nın yol açtığı sel ve toprak kaymalarında yaşamını yitirenlerin sayısının 410'a yükseldiği, 336 kişinin ise hala kayıp durumda olduğu kaydedildi. Sri Lanka Afet Yönetim Merkezi Genel Müdürü Sampath Kotuwegoda, sel ve toprak kaymaları nedeniyle 1.1 milyondan fazla insanın yerinden edilmesiyle ülkenin &quot;tarihi bir insani krizle&quot; karşı karşıya olduğunu ifade etti. Kotuwegoda, 25 bölgenin tamamının doğal afetten etkilendiğini, arama-kurtarma ve yardım operasyonlarının devam ettiğini belirtti. 
+Paylaşımla birlikte büyük korkuya kapıldığını dile getiren oyuncu kendini gizleyen kişinin yakalanarak cezalandırılmasını talep etti. İstanbul Cumhuriyet Başsavcılığı oyuncunun şikayeti sonrasında konuyla ilgili soruşturma başlattı.]]></content:encoded>
+      <link><![CDATA[https://www.mynet.com/magazin/uzak-sehir-in-zerrin-i-dilin-doger-e-olum-tehdidi-savciliga-kostu-130100562009]]></link>
+      <media:content url="https://imgrosetta.mynet.com.tr/file/22361932/22361932-1200x675.png" expression="full" width="1200" height="675" type="image/jpeg">
+        <media:description type="plain"><![CDATA[Uzak Şehir'in Zerrin'i Dilin Döğer'e ölüm tehdidi! Savcılığa koştu]]></media:description>
+      </media:content>
+      <category>guncel</category>
+      <tag>guncel</tag>
+      <tag>magazin</tag>
+    </item>
+<item>
+      <guid isPermaLink="true">https://www.mynet.com/bu-da-oldu-1-milyon-tl-lik-evi-caldi-190101295826</guid>
+      <pubDate>Tue, 02 Dec 2025 09:07:45 +0000</pubDate>
+      <title><![CDATA[Bu da oldu! 1 milyon TL'lik evi çaldı]]></title>
+      <description><![CDATA[Bursa'nın Mudanya ilçesinde taşınabilir ev (tiny house) çaldığı belirlenen şüpheli, jandarma ekiplerince gözaltına alındı. 1 milyon 200 bin lira değerindeki ev ise, sahibine teslim edildi.]]></description>
+      <content:encoded><![CDATA[Bursa'nın Mudanya ilçesine bağlı Eğerce Mahallesi'nde M.E'ye ait 1 milyon 200 bin lira değerindeki tek katlı taşınabilir ev (tiny house) çalındı.
 
-ULUSLARARASI DESTEK İHTİYACI VAR
-Kotuwegoda, &quot;İnsanları yeniden yerleştirmemiz, ülkeyi yeniden inşa etmemiz gerekiyor ve bu çok büyük bir görev olacak&quot; dedi. Hindistan, Pakistan, Bangladeş ve Japonya gibi komşu ülkelerin acil durum yönetim ekipleri gönderdiğini belirten Kotuwegoda, halkın duyduğu ihtiyaçlara karşılayabilmek için daha fazla uluslararası desteğe ihtiyaç duyulduğunu söyledi.
+M.E'nin ihbarıyla olay yerine jandarma ekibi sevk edildi. 8 farklı mahalledeki güvenlik kameralarını inceleyen jandarma ekipleri, şüphelinin K.E. olduğunu belirledi.
+EV, SAHİBİNE TESLİM EDİLDİ
 
-TAYLAND'DA DA DURUM AYNI
-Tayland'da şiddetli yağışların yol açtığı sel ve toprak kaymalarında 176, Malezya'da ise 3 kişi hayatını kaybederken, Asya ülkelerindeki toplam can kaybı bin 220'ye yükseldi.
-
-
-
-
-Kaynak: İHA &nbsp; | &nbsp; Bu içerik Çiğdem Sevinç tarafından yayına alınmıştır]]></content:encoded>
-      <link><![CDATA[https://www.mynet.com/guney-asya-atlantis-e-dondu-tarihi-kriz-sayisiz-can-aldi-milyonlarca-insani-etkiledi-190101295833]]></link>
-      <media:content url="https://imgrosetta.mynet.com.tr/file/22380448/22380448-1200x675.jpg" expression="full" width="1200" height="675" type="image/jpeg">
-        <media:description type="plain"><![CDATA[Güney Asya Atlantis'e döndü! "Tarihi kriz" sayısız can aldı: Milyonlarca insanı etkiledi]]></media:description>
+Operasyonla gözaltına alınan şüphelinin jandarmadaki işlemlerinin sürdüğü öğrenildi. Taşınabilir ev ise eksiksiz şekilde sahibine teslim edildi.Kaynak: AA &nbsp; | &nbsp; Bu içerik Jale Uslu tarafından yayına alınmıştır]]></content:encoded>
+      <link><![CDATA[https://www.mynet.com/bu-da-oldu-1-milyon-tl-lik-evi-caldi-190101295826]]></link>
+      <media:content url="https://imgrosetta.mynet.com.tr/file/22377148/22377148-1200x675.jpg" expression="full" width="1200" height="675" type="image/jpeg">
+        <media:description type="plain"><![CDATA[Bu da oldu! 1 milyon TL'lik evi çaldı]]></media:description>
       </media:content>
       <category>trend-haber</category>
       <tag>trend-haber</tag>
       <tag>trend</tag>
     </item>
 <item>
-      <guid isPermaLink="true">https://www.mynet.com/magazin/cenk-tosun-ve-ece-tosun-bosandi-mi-cenk-tosun-dan-aciklama-130100562024</guid>
-      <pubDate>Tue, 02 Dec 2025 05:59:32 +0000</pubDate>
-      <title><![CDATA[Cenk Tosun eşi kim? Cenk Tosun boşandı mı? Jet hızında açıklama]]></title>
-      <description><![CDATA[Futbolcu Cenk Tosun şu sıralar kariyeriyle değil özel hayatıyla gündemde. Cenk Tosun'un 9 yıllık evliliğini bitirdiği iddiaları gündemde. "Cenk Tosun ve Ece Tosun boşandı mı?" sorusu merak edildi.]]></description>
-      <content:encoded><![CDATA[2016'da evlenen ve iki çocuk sahibi olan yıldız futbolcu Cenk Tosun ve Ece Tosun'un boşandığı yönünde çıkan iddialar gündeme geldi. Öyle ki Tosun'un Ece Tosun'a büyük bir nafaka da ödemeye başladığı söyleniyordu.
-Cenk Tosun ve eşi Ece'nin bir süre önce ayrılma kararı aldığı iddiaları yayılınca ünlü futbolcu hemen açıklama yaptı.
+      <guid isPermaLink="true">https://www.mynet.com/sergen-yalcin-gorev-vermiyordu-felix-uduokhai-ayriliyor-453667-myspor</guid>
+      <pubDate>Tue, 02 Dec 2025 20:13:49 +0000</pubDate>
+      <title><![CDATA[Sergen Yalçın görev vermiyordu! Felix Uduokhai ayrılıyor]]></title>
+      <description><![CDATA[Süper Lig devlerinden Beşiktaş’ın tecrübeli stoperi Felix Uduokhai siyah-beyazlı takımdan ayrılmayı düşünüyor. Süper Lig’de bu sezon son maçlarda forma şansı bulmakta zorlanan Alman stoper, yeniden Bundesliga’ya dönebilir.  | Beşiktaş haberleri]]></description>
+      <content:encoded><![CDATA[Beşiktaş'ta devre arası transfer dönemi için çalışmalar başladı. Teknik direktör Sergen Yalçın ve yönetim arasında belirlenen rapor doğrultusunda çalışmalar başlanırken, takımdan ayrılmak istediği açıklanan ilk isimde belli oldu. İşte detaylar...
+ALMAN BASINI DUYURDU!
 
-Tosun, yaptığı açıklamada, &quot;Aile hayatıyla ön planda olan bir futbolcu olarak, hiçbir gerçekliği olmayan, boşandığımıza dair çıkan haberleri hayretle karşıladım. Mutlu bir evliliğimiz, huzurlu bir yuvamız var. Böyle asılsız haberlere itibar etmeyiniz&quot; ifadelerini kullandı. 
+Sky Sport Almanya’nın aktardığı bilgilere göre, ligde son 6 karşılaşmada toplamda yalnızca bir dakika forma giyen Nijerya asıllı Alman stoper, Beşiktaş’tan ayrılma kararı aldı.
+SERGEN YALÇIN GÖREV VERMEDİ! AYRILABİLİR...
 
-Cenk Tosun'un boşanma iddialarını yalanlaması, sevenlerini rahatlattı. 
+Beşiktaş’a 500 bin euro kiralama bedeliyle ve 5 milyon euro zorunlu satın alma opsiyonuyla katılan Felix Uduokhai, Sergen Yalçın’ın takımın başına geçmesinin ardından sahada düzenli olarak yer alamıyor. Alman stoperin devre arası transfer döneminde takımdan ayrılacağı ve Almanya'ya tekrar dönmek istediği bildirildi. ]]></content:encoded>
+      <link><![CDATA[https://www.mynet.com/sergen-yalcin-gorev-vermiyordu-felix-uduokhai-ayriliyor-453667-myspor]]></link>
+      <media:content url="https://imgrosetta.mynet.com.tr/file/22385314/22385314-1200x675.jpg" expression="full" width="1200" height="675" type="image/jpeg">
+        <media:description type="plain"><![CDATA[Sergen Yalçın görev vermiyordu! Felix Uduokhai ayrılıyor]]></media:description>
+      </media:content>
+      <category>futbol</category>
+      <tag>besiktas</tag>
+      <tag>futbol</tag>
+      <tag>spor</tag>
+    </item>
+<item>
+      <guid isPermaLink="true">https://www.mynet.com/magazin/yaprak-dokumu-nun-hayriye-si-guven-hokna-nin-son-hali-gundemde-resmen-erimis-130100561220</guid>
+      <pubDate>Fri, 28 Nov 2025 04:48:21 +0000</pubDate>
+      <title><![CDATA[Yaprak Dökümü'nün Hayriye'si Güven Hokna'nın son hali gündemde! 'Resmen erimiş']]></title>
+      <description><![CDATA[Efsane dizi Yaprak Dökümü'nde canlandırdığı Hayriye karakteriyle hafızalara kazınan oyuncu Güven Hokna son haliyle sosyal medyanın gündemine oturdu. Bir süredir ekranlardan uzak olan ünlü ismin zayıflığı dikkatlerden kaçmadı.]]></description>
+      <content:encoded><![CDATA[Susam Sokağı, Ferhunde Hanımlar, Yaprak Dökümü, Kurtlar Vadisi, İkinci Bahar ve Zerda dizilerindeki rolleriyle hafızalara kazınan usta oyuncu Güven Hokna bir süredir ekranlardan uzak sakin bir yaşam sürüyor.
+Zaman zaman ödül törenlerinde ortaya çıkan usta oyuncu şimdi de son haliyle sosyal medyanın gündemine oturdu. 
+
+79 yaşındaki Güven Hokna'nın verdiği kilolar dikkatlerden kaçmadı.
+
+Usta oyuncunun sosyal medya üzerinden yaptığı paylaşımlarda neşeli hali beğeni topladı. 
+YORUM YAĞDI
+
+Ünlü isme; &quot;Ne kadar zayıflamış&quot;, &quot;İncecik olmuş&quot;, &quot;Resmen erimiş&quot;, &quot;Hayriye Hanım her hali ile güzel&quot; gibi yorumlar yapıldı.
+
+GÜVEN HOKNA KİMDİR?
+
+Güven Hokna, 24 Ocak 1946 yılında Ankara'da doğdu. Özellikle; Susam Sokağı, Ferhunde Hanımlar, Yaprak Dökümü, Kurtlar Vadisi, İkinci Bahar ve Zerda dizilerindeki rolleriyle tanınıyor.
+
+Hacettepe Üniversitesi Ankara Devlet Konservatuvarı 1967 yılı mezunu olan Hokna, 35 yıl Devlet Tiyatroları'nda çalıştı.
+
+Ferhunde Hanımlar dizisiyle tanınan ve Eşkıya filmiyle adını duyuran sanatçı, mesleğinde asıl zirveye İkinci Bahar dizisindeki Neriman rolüyle ulaştı.
+Kanal D'de yayımlanan Yaprak Dökümü adlı dizide Hayriye Tekin karakteriyle geniş bir hayran kitlesine ulaştı.
 ]]></content:encoded>
-      <link><![CDATA[https://www.mynet.com/magazin/cenk-tosun-ve-ece-tosun-bosandi-mi-cenk-tosun-dan-aciklama-130100562024]]></link>
-      <media:content url="https://imgrosetta.mynet.com.tr/file/22364389/22364389-1200x675.png" expression="full" width="1200" height="675" type="image/jpeg">
-        <media:description type="plain"><![CDATA[Cenk Tosun eşi kim? Cenk Tosun boşandı mı? Jet hızında açıklama]]></media:description>
+      <link><![CDATA[https://www.mynet.com/magazin/yaprak-dokumu-nun-hayriye-si-guven-hokna-nin-son-hali-gundemde-resmen-erimis-130100561220]]></link>
+      <media:content url="https://imgrosetta.mynet.com.tr/file/22310051/7b2270726f63657373223a7b2274797065223a22666f637573222c22636f6f7264696e61746573223a7b2278223a22302e3233222c2279223a22302e3736227d7d7d/22310051-1200x675.jpg" expression="full" width="1200" height="675" type="image/jpeg">
+        <media:description type="plain"><![CDATA[Yaprak Dökümü'nün Hayriye'si Güven Hokna'nın son hali gündemde! 'Resmen erimiş']]></media:description>
       </media:content>
       <category>guncel</category>
       <tag>guncel</tag>
       <tag>magazin</tag>
     </item>
 <item>
-      <guid isPermaLink="true">https://www.mynet.com/magazin/cemal-can-canseven-ilk-defa-acikliyorum-dedi-survivor-itirafi-130100562039</guid>
-      <pubDate>Tue, 02 Dec 2025 04:02:39 +0000</pubDate>
-      <title><![CDATA[Cemal Can Canseven'den Survivor itirafı! Yıllarca kimseye anlatmamış]]></title>
-      <description><![CDATA[Survivor 2020 şampiyonu Cemal Can Canseven, Danla Bilic’in programında yıllardır kimseyle paylaşmadığı bir adada yaşanan olayı ilk kez açıkladı. Oruç tuttuğu gece gizlice bırakılan iki yumurta yüzünden duygusal anlar yaşadığını anlattı.]]></description>
-      <content:encoded><![CDATA[Survivor 2020 şampiyonu Cemal Can Canseven yakın dostu Danla Bilic'in programına katıldı. Burada Survivor dönemine dair de açıklamalar yapan Cemal Can adada yaşanan bir olayı ilk kez anlattı.
-Cemal Can Canseven kimsenin bilmediği olayı anlatırken &quot;Buradan ilk defa açıklıyorum. Bunu bir tek aileme söylemişimdir. Belki onlara da söylemedim&quot; dedi.
+      <guid isPermaLink="true">https://www.mynet.com/magazin/muge-boz-ve-caner-erdeniz-turkiye-yi-terk-etti-gerekceleri-elestiri-aldi-130100561967</guid>
+      <pubDate>Mon, 01 Dec 2025 11:09:21 +0000</pubDate>
+      <title><![CDATA[Müge Boz ve Caner Erdeniz Türkiye'yi terk etti! İşte sebebi]]></title>
+      <description><![CDATA[Oyuncu Müge Boz ve basketbolcu Caner Erdeniz çocuklarıyla birlikte Türkiye'yi terk etmeye karar verdi. 2 çocukları olan çiftin ülkeden gitme sebebi sosyal medya X'te tartışma konusu oldu.]]></description>
+      <content:encoded><![CDATA[Basketbolcu Caner Erdeniz ile 2019'da Barselona'da nikâh masasına oturan model ve oyuncu Müge Boz, aynı yıl kızı Vina'yı kucağına almıştı. Müge Boz daha sonra ise Rika'yı doğurmuştu.
+2 çocuklu mutlu bir aile tablosu çizen çift son olarak aldıkları kararla gündeme geldi. Ünlü çift, çocuklarının eğitimi için ülkeyi terk etmeye karar verdi.
+Caner Erdeniz ve Müge Boz, İstanbul'da sahip oldukları evi kapatmayarak Londra'ya taşınmaya karar verince sosyal medya X'te de gündem oldu.
 
-&quot;KEMİRE KEMİRE YİYİP AĞLAMIŞTIM&quot;
-Survivor Cemal Can Kadir Gecesi'nde oruç tutmak istediğini söyleyerek &quot;Yapma etme dediler ben yapacağım deyip oruç tuttum. Biri onu bulamadım hiç kim olduğunu; bir gece yarısı 2 yumurta bırakmıştı. Bayılmayayım diye herhalde&quot; itirafında bulundu.
-Ünlü fenomen konuşmasında şunları söyledi:
+Bergüzar Korel, Kıvanç Tatlıtuğ, Mustafa Sandal gibi birçok ünlü ismin evinin bulunduğu İngiltere'ye eğitim amaçlı taşınan çifti duyanlar bu konuda eleştirilerini gizlemedi.
 
-&quot;Kimseye söylemedim bunu. İki tane haşlanmış yumurtayı ben 2 saat boyunca o haşlanmış yumurtayı böyle kemire kemire yiyip ağlamıştım. O kimse ondan Allah razı olsun büyük sevaba girdi. Açlık oyunlarında yukarıdan böyle hediye geliyor ya
-insana. Allah'ım dedim sanki ben öyle Allah tarafından yollanmış iki yumurta falan...&quot;
-]]></content:encoded>
-      <link><![CDATA[https://www.mynet.com/magazin/cemal-can-canseven-ilk-defa-acikliyorum-dedi-survivor-itirafi-130100562039]]></link>
-      <media:content url="https://imgrosetta.mynet.com.tr/file/22366078/22366078-1200x675.png" expression="full" width="1200" height="675" type="image/jpeg">
-        <media:description type="plain"><![CDATA[Cemal Can Canseven'den Survivor itirafı! Yıllarca kimseye anlatmamış]]></media:description>
+Sosyal medyada &quot;Ne eğitimmiş bir tek ülke dışında var herhalde&quot;, &quot;Parayı burada kazanıp orada harcıyorlar&quot;, &quot;Ne güzel para var huzur var&quot;, &quot;Eğitim gerekçesi komik oluyor&quot;, &quot;Özel okul fiyatlarını görünce mantıklı karar&quot; yorumları yapıldı.
+
+Öte yandan son olarak Engin Altan Düzyatan çocuklarının eğitimi için Dubai'ye yerleşme kararı almıştı.]]></content:encoded>
+      <link><![CDATA[https://www.mynet.com/magazin/muge-boz-ve-caner-erdeniz-turkiye-yi-terk-etti-gerekceleri-elestiri-aldi-130100561967]]></link>
+      <media:content url="https://imgrosetta.mynet.com.tr/file/22358323/22358323-1200x675.png" expression="full" width="1200" height="675" type="image/jpeg">
+        <media:description type="plain"><![CDATA[Müge Boz ve Caner Erdeniz Türkiye'yi terk etti! İşte sebebi]]></media:description>
       </media:content>
       <category>guncel</category>
       <tag>guncel</tag>
       <tag>magazin</tag>
     </item>
 <item>
-      <guid isPermaLink="true">https://haber.mynet.com/dem-parti-nin-tepki-gosterdigi-ozgur-ozel-den-yanit-geldi-alinmislar-110107256225</guid>
-      <pubDate>Tue, 02 Dec 2025 06:57:11 +0000</pubDate>
-      <title><![CDATA[DEM Parti'nin tepki gösterdiği Özgür Özel'den yanıt geldi: "Alınmışlar"]]></title>
-      <description><![CDATA[17 yıl sonra parti programını değiştiren ve bir kez daha Özgür Özel'i genel başkan seçen CHP'nin 39. Olağan Kurultay'dan sonraki yol haritası merak ediliyordu. Özel, yol haritasını üç maddede özetledi. Öte yandan kurultay konuşmasında "Stockholm sendromuna kapılmayın, celladınıza aşık olmayın" çağrısında bulunan Özel, DEM Parti'den gelen tepkilere verdiği yanıtla dikkat çekti.]]></description>
-      <content:encoded><![CDATA[CHP bir kurultayı daha geride bıraktı. Özgür Özel tek aday olduğu kurultayda genel başkanlığını tazeledi. Önümüzdeki süreç için iddialı konuşan Özel, 2 milyon CHP üyesinin kapı kapı dolaşacağını belirterek &quot;Sadece Türkiye’nin değil, dünya siyaset tarihinin en kalabalık kampanyasını yapacağız&quot; dedi. 
-CHP'NİN 3 MADDELİK YOL HARİTASI
-Gazeteci Deniz Zeyrek, kurultayın ardından Özel'le sohbetini Nefes'teki köşesine taşıdı. &quot;Bundan sonra ne olacak?&quot; diye soran Zeyrek'e Özel, 3 maddede yanıt verdi:
-“1- Mücadelemiz devam edecek.
-2- İktidar yürüyüşümüz devam edecek.
-3- Halkımıza bu ülkeyi yönetme kapasitemizi göstereceğiz.”
+      <guid isPermaLink="true">https://www.mynet.com/ogrencisine-mustehcen-fotograflar-atti-annesi-ortaya-cikardi-190101295758</guid>
+      <pubDate>Fri, 28 Nov 2025 08:45:09 +0000</pubDate>
+      <title><![CDATA[Öğrencisine müstehcen fotoğraflar attı! Annesi ortaya çıkardı]]></title>
+      <description><![CDATA[22 yaşındaki beden eğitimi öğretmeni, 13 yaşındaki öğrencisine 'uygunsuz mesaj ve fotoğraf gönderdiği' gerekçesiyle tutuklandı.]]></description>
+      <content:encoded><![CDATA[ABD'nin Florida eyaletinde 22 yaşındaki beden eğitimi öğretmeni Ramos Figueroa ortaokul çağındaki öğrencisine uygunsuz mesajlar attı. 13 yaşındaki bir öğrencinin annesi, geçen ayın ortalarında polise başvurarak öğretmenin öğrencisiyle uygunsuz mesajlaşmalar yaptığını bildirdi.
 
-&quot;ÜÇ AY İÇİNDE HÜKÜMET PROGRAMIMIZI HAZIRLAYACAĞIZ&quot;
-Ekonomide, hukuk alanında ve dış politika/güvenlik gibi alanlarda güçlü bir ekip oluşturduklarını söyleyen Özel, “Tecrübeli, yetkin ve derdimizi iyi anlatabilecek arkadaşlarla bugünden itibaren yola çıkıyoruz” deyip şöyle konuştu:
-“Partimize yönelik baskılarla mücadeleye devam edeceğiz. Ancak aynı zamanda da iktidara yürüyoruz ve bunu halkımıza göstereceğiz. Halka ‘sorunlarınızı biz çözeceğiz’ diyeceğiz. Parti programımızda genel ve somut yaklaşımlar var. Bunları duyurduk. Ancak aynı zamanda halkımız somut vaatler bekliyor. Biz de üç ay içinde hükümet programımızı hazırlayacağız. Bu zaman diliminde sekiz ayrı başlıkta somut vaatlerimizi duyuracağız.”
-&quot;2 MİLYON ÜYEMİZ KAPI KAPI DOLAŞIP ANLATACAK&quot;
-Özgür Özel, parti ve hükümet programlarıyla vaatlerini halka nasıl anlatacaklarına ilişkin şöyle konuştu: “2 milyon üyemize, bunların anlatılması için görev tarif edeceğiz. Malumunuz medya kıskaç altında. Medya ile sesimizi bir yere kadar duyurabiliyoruz. Bu nedenle biz artık kapı kapı dolaşarak anlatacağız. 2 milyon üyemiz kapı kapı dolaşacak, anlatacak. Ayrıca 185 bin sandık görevlisini belirledik. Onların işlerinin yüzde 10’u seçim günü yapacakları olacak. Aynı zamanda kendi sandık bölgelerindeki herkesi ziyaret edecekler. Kendileri ziyaret etmekle kalmayacak, bölgelerinde partimizle halkı buluşturacak organizasyonlar yapacaklar. İddia ediyorum. Sadece Türkiye’nin değil, dünya siyaset tarihinin en kalabalık kampanyasını yapacağız. Vaatlerimizi, yapacaklarımızı duymayan almayacak.”
+SUÇUNU KABUL ETTİ
+Öğretmen, &quot;reşit olmayan birine uygunsuz içerik dağıtmak&quot; ve &quot;reşit olmayan birine zararlı içerik iletmek&quot; suçlamalarıyla yakalandı. Soruşturma sonucunda öğretmenin öğrenciye gönderdiği mesaj ve fotoğraflar ortaya çıkarıldı. Öğretmen de suçunu kabul etti ve tutuklandı. 
 
-&quot;DEM PARTİ ÜSTÜNE ALINMIŞ&quot;
-Özel, kurultayda kullandığı “celladınıza aşık olmayın” ifadelerine DEM Parti’den gelen tepkiler hakkında şöyle konuştu: “Ben DEM Parti’yi doğrudan hedef almadım. Hangi siyasi parti olursa olsun diye başladım cümleme zaten. AKP’nin MHP’nin Kürt seçmenlere neler yaptığını anımsattım sadece. Alınganlık göstermişler. Canları sağ olsun. Tülay Hanım’ın da dediği gibi muhalefet partisinin muhalefet partisiyle bu tür tartışmalar yaşamasını doğru bulmam. O nedenle bu tartışmayı sürdürecek değilim.”
-&quot;KILIÇDAROĞLU'NDAN TEBRİK GELMEDİ&quot;
-Özel’e önceki genel başkan Kemal Kılıçdaroğlu’nun tebrik için arayıp aramadığını sordum. “Ben kendisini Kurultay’dan bir gün önce de arayıp davet ettim. Gelmedi, şu ana kadar aramadı” dedi.
+]]></content:encoded>
+      <link><![CDATA[https://www.mynet.com/ogrencisine-mustehcen-fotograflar-atti-annesi-ortaya-cikardi-190101295758]]></link>
+      <media:content url="https://imgrosetta.mynet.com.tr/file/22323533/22323533-1200x675.png" expression="full" width="1200" height="675" type="image/jpeg">
+        <media:description type="plain"><![CDATA[Öğrencisine müstehcen fotoğraflar attı! Annesi ortaya çıkardı]]></media:description>
+      </media:content>
+      <category>trend-haber</category>
+      <tag>trend-haber</tag>
+      <tag>trend</tag>
+    </item>
+<item>
+      <guid isPermaLink="true">https://www.mynet.com/magazin/uzak-sehir-in-kadir-i-ve-pakize-si-ask-mi-yasiyor-burak-safak-in-sevgilisi-kim-130100561991</guid>
+      <pubDate>Mon, 01 Dec 2025 12:11:52 +0000</pubDate>
+      <title><![CDATA[Uzak Şehir'in Kadir'i ve Pakize'si aşk mı yaşıyor? 'Sevgilim var' diyerek açıkladı]]></title>
+      <description><![CDATA[Uzak Şehir’de Kadir karakterini oynayan Burak Şafak’ın dizideki Pakize'yi canlandıran Yaren Güldiken ile aşk yaşadığı iddiaları gündeme geldi. Burak Şafak iddialara noktayı koydu.]]></description>
+      <content:encoded><![CDATA[Reyting rekortmeni Uzak Şehir dizisinde oyuncuların özel hayatı gündemden düşmüyor. Sık sık sette oyuncuların aşk yaşadıklarına dair iddialar gündeme geliyor. Şimdi de Uzak Şehir'in Kadir'i ve Pakize'sinin aşk yaşadığı iddia edildi.
+Uzak Şehir’de rol alan Burak Şafak Sibel Arna'nın konuğu olarak iddialara noktayı koydu.
 
-'GÜRSEL TEKİN' ÇIKIŞI: &quot;CANIMIZLA UĞRAŞIYORUZ, BUNLARLA UĞRAŞACAK DEĞİLİZ&quot;
-Özel, İstanbul’da mahkeme kararıyla “Çağrı heyeti” olarak görevine devam eden Gürsel Tekin konusunda da “Gerçek partiliyse kurultaydan çıkan mesajı doğru okumalı” dedi. Tekin’in parti üyesi olmadığı halde birilerini partiden ihraç etmeye çalıştığını söyleyen Özel, “Biz canımızla uğraşıyoruz. Mücadele veriyoruz. Bunlarla uğraşacak değiliz” ifadesini kullandı.
-&quot;PARTİ TARİHİNİN EN YÜKSEK RAKAMI&quot;
-Özel’e Tekin’in “Geçmişte ortalama 400 kişi Parti Meclisi üyeliği için başvuruyordu, şimdi 145” açıklaması hakkında “Sanırım Genel Başkan’ın 1333 oy aldığını gören arkadaşlar, ‘bu koşullarda, bu genel başkanın anahtar listesini delemeyiz’ endişesiyle başvurmadılar” dedi.
-Rakamların yüksekliğini değerlendiren Özel şöyle konuştu: “1333 oyla genel başkan seçildim. Bu parti tarihinin en yüksek rakamı. Anahtar listemizde de tek çizik olmadı. Bu durum bana ve yeni seçilen parti yönetimine büyük bir sorumluluk yükledi. Bunun bilinciyle hareket edeceğiz.”
-DEM PARTİ ÖZEL'İN HANGİ SÖZLERİNE TEPKİ GÖSTERMİŞTİ?
-Özgür Özel kurultay konuşmasında şu ifadeleri kullanmıştı: &quot;Biz mevzi olarak partimizi değil, bir cephe olarak demokratik siyaseti savunuyoruz. Herkesi, canı istediğinde 'şu parti kapatılsın', kapatmıyorsa 'Anayasa Mahkemesi de kapatılsın' diyenlerin demokratlığını hatırlamaya davet ediyorum. Bir Stockholm sendromuna kapılmamaya, dün elinden zor kurtulduğunuz celladınıza aşık olmamaya davet ediyorum.&quot;
+Burak Şafak açıklamasında “Dizide aşık olduğum Pakize karakterini oynayan Yaren ile (Güldiken) ile gerçek hayatta da beraber olduğumuz yazılıyor. Öyle bir şey yok. Yaren canım benim, çok severim ama doğru değil&quot; dedi.
+Uzak Şehir'in Kadir'i ayrıca sevgilisi olduğunu da açıkladı ve &quot;Benim hayatımda çok taze diyebileceğimiz bir aşk var&quot; dedi.
 
-DEM PARTİ: &quot;AKIL TUTULMASI&quot;
-DEM Parti Eş Genel Başkanı Tülay Hatimoğulları, Özel'in konuşmasının ardından şöyle bir açıklama yapmıştı: &quot;Yargı sopası, baskılar, adaletsizlik 'celladına âşık olmak' ya da 'Stockholm sendromu' metaforuyla anlatılamaz. Ancak siyasetle anlatılır, siyaset üretmekle açıklanır, dayanışmayla ve ortak mücadeleyle bunlar aşılır. Bu metaforun bizler için kullanılmış olması, en hafif tabiriyle bir akıl tutulmasıdır... Bizler tarih boyunca bıkmadan, usanmadan, yılmadan, bütün baskılara rağmen direnen devrimci, sosyalist, yurtsever bir geleneğin temsilcileriyiz. Celladı da çok çok iyi tanırız. Evladı yakılan köylerimizden, zorla boşaltılan köylerimizden tanırız. Celladı Alevi katliamlarından, faili meçhullerden, işkencelerden, zindanlardan tanırız.&quot;]]></content:encoded>
-      <link><![CDATA[https://haber.mynet.com/dem-parti-nin-tepki-gosterdigi-ozgur-ozel-den-yanit-geldi-alinmislar-110107256225]]></link>
-      <media:content url="https://imgrosetta.mynet.com.tr/file/22373653/22373653-1200x675.jpg" expression="full" width="1200" height="675" type="image/jpeg">
-        <media:description type="plain"><![CDATA[DEM Parti'nin tepki gösterdiği Özgür Özel'den yanıt geldi: "Alınmışlar"]]></media:description>
+UZAK ŞEHİR KADİR'İN SEVGİLİSİ KİM?
+Uzak Şehir’de Kadir karakterini oynayan Burak Şafak sevgilisini gözlerden uzakta tutuyor. Şafak sevgilisiyle sosyal medya üzerinden tanıştıklarını açıklamıştı.]]></content:encoded>
+      <link><![CDATA[https://www.mynet.com/magazin/uzak-sehir-in-kadir-i-ve-pakize-si-ask-mi-yasiyor-burak-safak-in-sevgilisi-kim-130100561991]]></link>
+      <media:content url="https://imgrosetta.mynet.com.tr/file/22359775/22359775-1200x675.png" expression="full" width="1200" height="675" type="image/jpeg">
+        <media:description type="plain"><![CDATA[Uzak Şehir'in Kadir'i ve Pakize'si aşk mı yaşıyor? 'Sevgilim var' diyerek açıkladı]]></media:description>
+      </media:content>
+      <category>guncel</category>
+      <tag>guncel</tag>
+      <tag>magazin</tag>
+    </item>
+<item>
+      <guid isPermaLink="true">https://www.mynet.com/magazin/2-aralik-sali-aksami-ne-izlendi-reyting-sonuclari-uzak-sehir-derbiye-ragmen-zirvede-130100562192</guid>
+      <pubDate>Tue, 02 Dec 2025 07:45:01 +0000</pubDate>
+      <title><![CDATA[2 Aralık Salı akşamı ne izlendi? Reyting sonuçları: Uzak Şehir derbiye rağmen zirvede]]></title>
+      <description><![CDATA[2 Aralık Salı 2025 reyting sonuçları geldi. Dün en çok yine Uzak Şehir izlendi. Galatasaray-Fenerbahçe derbisine rağmen Uzak Şehir zirvede kalmayı başardı.]]></description>
+      <content:encoded><![CDATA[Televizyon izleyicileri için her gün yeni rekabet alanları oluşuyor. Ratingler, dün akşamki programlarla oldukça ilgi çekti. Dikkat çeken yapımlar, izleyicilerin hangi yapımlara daha fazla ilgi gösterdiğini açıkladı.
+Listemizde en yüksek reytingi alan yapım &quot;UZAK ŞEHİR&quot; oldu. Kanal D'de yayınlanan bu dizi, izleyicilerin gönlünde taht kurdu. Uzun süren yayın akışı boyunca büyük bir takipçi kitlesine ulaştı. İzleyicilerin beğenisini toplayan bir diğer program &quot;UZAK ŞEHİR (OZET)&quot; oldu. Bu özet bölümü, ana dizinin öncesinde merakla izlendi.
+
+ATV'de yayınlanan &quot;ESRA EROL'DA&quot; ise gündüz kuşağında yüksek reyting aldı. Devamında gelen &quot;MÜGE ANLI İLE TATLI SERT&quot;, izleyici ilgisini üzerine çekmeyi başardı. ATV'nin bir diğer popüler yapımı &quot;ATV ANA HABER&quot; olarak biliniyor. Bu akşam haber bülteni izleyiciler tarafından ilgiyle takip edildi.
+Kanal D'nin başka bir yapımı &quot;KANAL D ANA HABER&quot; dikkat çekti. Bu program, izleyiciyle etkileşimini artırarak haber veriyor. &quot;GELIN&quot; adlı program ise Kanal 7'de reyting mücadelesinde önemli bir başarı elde etti. 
+Yeni bir anlatıma sahip &quot;DİLBERAY (T.S)&quot; izleyici ilgisini çekti. TRT 1'den &quot;CENNETİN ÇOCUKLARI&quot; ise dramayı başarıyla ekrana taşıdı. Son olarak &quot;SELÇUK TEPELİ ILE NOW ANA HABER&quot;, izleyici ilgisini korudu. Bu program, haber formatında fark yarattı.
+Dün akşam izleyicilerin tercihleri, Türk televizyon dünyasında programların öne çıkmasını sağladı. Her program, izleyicilerin beklentilerine ve ilgisine göre şekillendi. Televizyon endüstrisindeki rekabetin ne denli kıyasıya olduğu bir kez daha gözler önüne serildi.
+
+
+
+Sıra
+Program
+Kanal
+Başlama Saati
+Bitiş Saati
+
+
+
+
+1
+UZAK SEHIR
+KANAL D
+20:59:51
+24:07:26
+
+
+2
+UZAK SEHIR (OZET)
+KANAL D
+20:00:49
+20:59:45
+
+
+3
+ESRA EROL'DA
+ATV
+16:21:16
+18:45:50
+
+
+4
+MUGE ANLI ILE TATLI SERT
+ATV
+10:00:03
+12:59:34
+
+
+5
+SELCUK TEPELI ILE NOW ANA HABER
+NOW
+19:00:05
+20:00:04
+
+
+6
+CENNETIN COCUKLARI
+TRT 1
+20:58:44
+23:44:13
+
+
+7
+ATV ANA HABER
+ATV
+18:59:58
+19:53:31
+
+
+8
+KANAL D ANA HABER
+KANAL D
+18:58:32
+20:00:00
+
+
+9
+GELIN
+KANAL 7
+19:30:35
+21:17:36
+
+
+10
+DILBERAY (T.S)
+ATV
+19:59:58
+22:47:45
+
+
+
+Kaynak: TİAK
+]]></content:encoded>
+      <link><![CDATA[https://www.mynet.com/magazin/2-aralik-sali-aksami-ne-izlendi-reyting-sonuclari-uzak-sehir-derbiye-ragmen-zirvede-130100562192]]></link>
+      <media:content url="https://imgrosetta.mynet.com.tr/file/19554098/19554098-1200x675.jpg" expression="full" width="1200" height="675" type="image/jpeg">
+        <media:description type="plain"><![CDATA[2 Aralık Salı akşamı ne izlendi? Reyting sonuçları: Uzak Şehir derbiye rağmen zirvede]]></media:description>
+      </media:content>
+      <category>guncel</category>
+      <tag>guncel</tag>
+      <tag>magazin</tag>
+    </item>
+<item>
+      <guid isPermaLink="true">https://haber.mynet.com/tegmenlerin-kilic-catma-toreni-sonrasi-o-da-ihrac-edilmisti-mahkemeden-dikkat-ceken-yeni-karar-110107256109</guid>
+      <pubDate>Mon, 01 Dec 2025 13:12:03 +0000</pubDate>
+      <title><![CDATA[Teğmenlerin kılıç çatma töreni sonrası o da ihraç edilmişti! Mahkemeden dikkat çeken yeni karar]]></title>
+      <description><![CDATA[Geçen yıl Kara Harp Okulu'ndan mezun olan teğmenlerin kılıç çatma töreni geniş yankı uyandırmış, sonrasında teğmenler ile dönemin Okul Komutan Vekili Albay Alper Topsakal ihraç edilmişti. Topsakal hakkındaki ihraç kararı mahkemede tarafından oybirliğiyle iptal edildi.]]></description>
+      <content:encoded><![CDATA[Kara Harp Okulu mezuniyet törenindeki kılıç çatma töreninin yankıları sürüyor. Geçen yılki törende teğmenler Subay Andı okuyup &quot;Mustafa Kemal'in askerleriyiz&quot; sloganları atmıştı. Teğmenlerle birlikte dönemin Okul Komutan Vekili Albay Alper Topsakal ve  tabur komutanı Halit Türkoğlu da ihraç edilmişti.
+
+İHRAÇ &quot;ORANTISIZ&quot; BULUNDU
+Gazeteci Müyesser Yıldız'ın aktardığına göre Ankara 19. İdare Mahkemesi Topsakal hakkındaki ihraç kararını oybirliğiyle iptal etti. Gerekçe yönünden oyçokluğuyla alınan iptal kararında; Mahkeme Başkanı ve bir üye, ihracın “orantısız” olduğunu belirtirken bir üye, somut olarak işlenmiş herhangi bir suç olmadığı yönünde görüş bildirdi.
+
+KARAR BUGÜN TEBLİĞ EDİLDİ
+Geçtiğimiz aylarda Alper Topsakal’ın yürütmeyi durdurma talebini oy çokluğuyla reddeden Ankara 19. İdare Mahkemesi, davanın esastan görüşmesini geçtiğimiz 21 Ekim’de duruşmalı yaptı. Duruşmanın ardından 4 Kasım’da alınan, TSK’dan ihraç işleminin oybirliğiyle iptali yönündeki karar da bugün taraflara tebliğ edildi.
+
+“İHRAÇ DEĞİL ALT BİR CEZA VERİLEBİLİRDİ”
+Kararda, Mahkeme Başkanı ve bir üye, Topsakal’ın ihracını şu gerekçelerle hukuka aykırı buldu:
+“Disiplin cezasına konu eylemler ile yaptırımlar arasında adil bir dengenin gözetilmesi hukuk devleti ilkesinin bir gereğidir. Disiplin cezası vermeye yetkili olan organlar, mevzuata bağlı kalmakla birlikte, evrensel hukuk normlarından olan ölçülülüğün alt ilkeleri olan elverişlilik, gereklilik ve orantılılık unsurlarını da göz önünde bulundurmalıdır. Söz konusu olayda davacının gerçekleştirilen eyleme ilişkin herhangi bir izni, onayı veya dahli bulunduğunun ortaya konulamadığı, eylemin resmi törenin sona ermesinin akabinde gerçekleştirildiği, bu durumda davacının astlarının eylemlerinden bireysel ve eşdeğer sorumlu kabul edilerek Silahlı Kuvvetlerden ayırma cezası ile cezalandırılmasının ölçülü olmadığı, davacıya isnad olunan fiilinin maiyetindekilerin gözetiminde ihmal gösterme kapsamında değerlendirilebileceği, isnad olunan fiil ile verilen cezanın örtüşmediği dolayısıyla ‘tipiklik’ şartının da gerçekleşmediği, davacının fiilinin ancak ‘Aylıktan kesmecezasını gerektiren disiplinsizlikler” maddesinde yer alan ‘Maiyetinin gözetiminde ihmal göstermek: Astlarının ve emri altındakilerin denetim, kontrol ve gözetiminde ihmal göstermektir.’ fiili kapsamında değerlendirilebileceği sonucuna varıldığından, davacının Silahlı Kuvvetlerden ayırma cezası ile cezalandırılması işleminde hukuka uygunluk görülmemiştir.”
+
+ÜYE HAKİM: “ORTADA SUÇ YOK”
+Alper Topsakal’ın açtığı yürütmenin iptali davasının reddinde 7 sayfalık karşı oy gerekçesi yazan üye ise esasa ilişkin alınan iptal kararının gerekçesine de 6 sayfa karşı oy yazısıyla itiraz etti.
+
+Hiç kimsenin işlemediği bir fiilden dolayı hukuken sorumlu tutulamayacağını, ayrıca salt okul komutanı ve diğer üstü konumunda bulunan komutanlarına karşı astlarının fillerinden aynı ve eşdeğer derecede sorumlu olacağına ilişkin yasal mevzuatta bir düzenleme bulunmadığına dikkat çeken Üye Hakim, özetle şunları vurguladı:
+“Davacının isnat edilen hususlara yönelik bir kusurunun, ihmalinin bulunduğuna yönelik somut, hukuken kabul edilebilir mahiyette bir delil bulunmamakta ve isnada konu fiillerin işlendiği somut olarak ortaya konulamamaktadır. Disiplin ve idare hukuku açısından somut olarak gerçekleşmemiş yahut aktif ve pasif bir fiille ortaya konulamamış bir davranış nedeniyle cezalandırmanın söz konusu olamayacağından, davacının somut, açık ve fiilen aktif ya da pasif şekilde gerçekleşmiş bir eylemine dayanmayan, varsayım ya da yorum yoluyla çıkarıma dayalı olarak tesis olunan ve ‘tipiklik’ şartı gerçekleşmeyen isnatlar nedeniyle, TSK ile ilişiğinin kesilmesine ilişkin işlemin belirtilen bu gerekçelerle iptaline karar verilmesi gerektiğinden çoğunluk kararında belirtilen gerekçeyle iptaline karar verilmesine gerekçe yönüyle katılmıyorum.”
+Bu kararın, gerek tabur komutanı Halit Türkoğlu gerekse teğmenlerin açtığı iptal davalarında emsal olacağı öne sürüldü.]]></content:encoded>
+      <link><![CDATA[https://haber.mynet.com/tegmenlerin-kilic-catma-toreni-sonrasi-o-da-ihrac-edilmisti-mahkemeden-dikkat-ceken-yeni-karar-110107256109]]></link>
+      <media:content url="https://imgrosetta.mynet.com.tr/file/22367035/22367035-1200x675.jpg" expression="full" width="1200" height="675" type="image/jpeg">
+        <media:description type="plain"><![CDATA[Teğmenlerin kılıç çatma töreni sonrası o da ihraç edilmişti! Mahkemeden dikkat çeken yeni karar]]></media:description>
       </media:content>
       <category>guncel</category>
       <tag>guncel</tag>
       <tag>haber</tag>
     </item>
 <item>
-      <guid isPermaLink="true">https://www.mynet.com/unlu-sef-mutfakta-ozel-sirlarini-acikladi-italyanlari-kizdiracak-gizli-tarifini-paylasti-1257022-myyemek</guid>
-      <pubDate>Tue, 02 Dec 2025 09:39:15 +0000</pubDate>
-      <title><![CDATA[Ünlü şef mutfakta özel sırlarını açıkladı: İtalyanları kızdıracak gizli tarifini paylaştı!]]></title>
-      <description><![CDATA[Ünlü şef Miguel Barclay, yıllardır hazırladığı düşük bütçeli tariflerle tanınsa da, mutfağında aslında neler olduğuna dair bilinmeyen pek çok detay var. Barclay, hem evinde gizlice yemekten keyif aldığı lezzeti hem de herkesin şaşıracağı mutfak alışkanlıklarını açıkladı. Bütçe dostu yemekleriyle ünlenen şef, uygun fiyatlı malzemelerden neler çıkarılabileceğini bir kez daha gözler önüne sererken, bazı tarifleri ise İtalyanları bile kızdıracak türden…]]></description>
-      <content:encoded><![CDATA[Uygun fiyatlı yemekleriyle tanınan şef Miguel Barclay, yıllardır '1 euro' tarifleriyle gündemde. Artan yaşam maliyetleri nedeniyle artık o fiyata yemek yapmak pek mümkün olmasa da Barclay hala bütçe dostu, aile boyu lezzetler yapma konusunda iddialı. 
+      <guid isPermaLink="true">https://haber.mynet.com/manda-yogurdu-satiyorum-deyip-dolandiricilik-yapan-kisi-tutuklandi-110107256151</guid>
+      <pubDate>Mon, 01 Dec 2025 19:34:58 +0000</pubDate>
+      <title><![CDATA["Manda yoğurdu satıyorum" deyip dolandırıcılık yapan kişi tutuklandı]]></title>
+      <description><![CDATA[İzmir'in Konak ilçesinde evine gittikleri kadını manda yoğurdu sattıklarını belirterek tırnakçılık yöntemiyle dolandırıcılık yaptığı suçlamasıyla yakalanan S.A., sevk edildiği adliyede tutuklandı.]]></description>
+      <content:encoded><![CDATA[Konak ilçesinde oturan bir kadının evine giden S.A., manda yoğurdu sattığını söyleyerek, tırnakçılık yönetimiyle dolandırıcılık yaptı. Evde bulunan güvenlik kamerası görüntüsüyle dolandırıcılık ortaya çıkarken, görüntüler sosyal medyada tepki topladı. 
+TUTUKLANDI
+İzmir İl Emniyet Müdürlüğü, görüntülerin ardından şüpheli S.A.’yı yakaladı.
 
-Evindeki dolapları, buzdolabı ve buzlukta da aynı yaklaşımı görmek mümkün: Gösterişten uzak, uygun fiyatlı ve kullanışlı malzemeler.
-Metro’nun mutfak serisine konuk olan ünlü şefin mutfağında öğrendiklerimiz:
-
-GİZLİ ZEVKİ: 'BENİ GÖREN ŞAŞIRIR'
-Barclay’in itirafına göre en büyük kaçamak yiyeceği, fıstıklı (pistachio) kurabiye.
-“Her gün bir o markanın önünden geçiyorum. Biraz açsam mutlaka girip bir tane alıyorum. Çok sağlıklı olduklarını sanmıyorum ama inanılmaz lezzetliler. Hafif tuzluluk ve tatlılık dengesi tam bana göre.”
-
-BUZDOLABINDA OLMAZSA OLMAZ: KALIN KESİM FÜME BACON
-Şefin buzdolabında her zaman dumanlı, kalın kesim streaky bacon bulunuyor. 
-
-“Az miktarı bile yemeği bambaşka bir seviyeye taşıyor, o lüks hissini veriyor.”
-RİSOTTO PİRİNCE ÖZEL TARİF
-Barclay’e göre misafirleri en kolay etkileyen yemeklerden biri risotto.
-“Risotto kulağa havalı geliyor ama aslında çok ucuz bir yemek. Bu yüzden mutfağımın en önemli malzemesi risotto pirinci.”
-Ancak tarifinde tartışma yaratacak bir detay var: “Risottoyu çedar peyniriyle yapıyorum. Pirinci pişirip içine ekstra olgun çedar eritiyorum, üzerine de kuşkonmaz veya karides ekliyorum. Farklı bir lezzet ama işe yarıyor.”
-
-DERİN DONDURUCUNUN YILDIZI: BEZELYE
-“Her zaman bir paket dondurulmuş bezelyem olur. Çocuklara ekstra sebze yedirmenin kolay yolu.”
-Bezelyeyi kızarmış pilava da, karbonaraya da ekliyor: &quot;Karbonaranın (makarna yemeği) tuzluluğuna karşı taze bir denge sağlıyor. Biraz limon sıkarsanız da nefis olur.”
-İtalyanların tepkisiyse tahmin edilebilir: &quot;İtalyanlar muhtemelen nefret eder; çünkü içine soğan ve mantar da koyuyorum. Bu daha çok 'karbonara tarzı' bir yemek. Ama benim favorim.”
-
-BİR LİRADAN UCUZA &quot;GÖSTERİŞLİ&quot; YEMEK: MANTAR STROGANOFF
-Barclay’e göre bütçe dostu etkileme yemeği kesinlikle stroganoff.
-“Mantar, soğan, biraz bacon, az krema ve paprika… Hepsi birleştiğinde çok özel bir yemek oluyor. Pirinçle servis ederseniz bir porsiyonun maliyeti bir pound’un bile altına düşer.”
-Artan portobello mantarlardan da peynir dolgulu fırın mantarları yapmanızı öneriyor.
-
-&quot;SOMONU AİRFRYER’DA PİŞİRİN&quot;
-“Airfryer hem daha temiz hem de balık kokusunu mutfağa yaymıyor. Bu yüzden somonu artık hep böyle pişiriyorum.”
-]]></content:encoded>
-      <link><![CDATA[https://www.mynet.com/unlu-sef-mutfakta-ozel-sirlarini-acikladi-italyanlari-kizdiracak-gizli-tarifini-paylasti-1257022-myyemek]]></link>
-      <media:content url="https://imgrosetta.mynet.com.tr/file/22377733/22377733-1200x675.jpg" expression="full" width="1200" height="675" type="image/jpeg">
-        <media:description type="plain"><![CDATA[Ünlü şef mutfakta özel sırlarını açıkladı: İtalyanları kızdıracak gizli tarifini paylaştı!]]></media:description>
-      </media:content>
-      <category>kesfet</category>
-      <tag>kesfet</tag>
-      <tag>yemek</tag>
-    </item>
-<item>
-      <guid isPermaLink="true">https://www.mynet.com/magazin/esra-erol-tatile-gitti-akla-esi-geldi-ali-ozbir-sessiz-kalmadi-130100561979</guid>
-      <pubDate>Mon, 01 Dec 2025 12:47:11 +0000</pubDate>
-      <title><![CDATA[Esra Erol yurt dışına gidince yorum yağdı! Ali Özbir sessiz kalmadı]]></title>
-      <description><![CDATA[Esra Erol'da programıyla uzun süredir ekranda olan sunucu Esra Erol çocukları ve kardeşleriyle yurt dışına tatile gitti. Sosyal medyada eşi Ali Özbir'in yanında olmadığını görenler yorum yağdırdı..]]></description>
-      <content:encoded><![CDATA[Sunucu Esra Erol programındaki olaylar kadar özel hayatıyla da gündeme gelen bir isim. Eşi Ali Özbir ile mutlu bir evlilik sürdüren Erol son olarak çocukları ve kardeşleriyle tatile gitti.
-Berlin'de kısa bir tatil yapan Esra Erol tatil pozlarıyla dikkat çekti. Pozları görenlerin aklına ise Ali Özbir geldi. Aile tatilinde olmayan Ali Özbir'e dair yorumlar da gecikmedi.
-
-Sosyal medyada bazı kullanıcılar Esra Erol'un fotoğrafları altına &quot;Ali Abi'ye yazık&quot; yorumlarında bulununca Ali Özbir hemen devreye girdi.
-
-Esra Erol'un eşi takipçiye hemen &quot;Neden&quot; diye sordu. Takipçi ise &quot;Abi, her defasında kız grubu tatile gidiyor… Sen hep evde yalnız kalıyorsun zoruma gitti&quot; yazdı. Ancak Ali Özbir bu defa yanıt vermedi.]]></content:encoded>
-      <link><![CDATA[https://www.mynet.com/magazin/esra-erol-tatile-gitti-akla-esi-geldi-ali-ozbir-sessiz-kalmadi-130100561979]]></link>
-      <media:content url="https://imgrosetta.mynet.com.tr/file/22358665/22358665-1200x675.png" expression="full" width="1200" height="675" type="image/jpeg">
-        <media:description type="plain"><![CDATA[Esra Erol yurt dışına gidince yorum yağdı! Ali Özbir sessiz kalmadı]]></media:description>
-      </media:content>
-      <category>guncel</category>
-      <tag>guncel</tag>
-      <tag>magazin</tag>
-    </item>
-<item>
-      <guid isPermaLink="true">https://www.mynet.com/4-cocuk-annesi-kadinin-meshur-tuzla-gelen-basarisi-6-yildir-bu-yontemle-gecimini-sagliyor-1315435-mykadin</guid>
-      <pubDate>Mon, 01 Dec 2025 13:48:28 +0000</pubDate>
-      <title><![CDATA[4 çocuk annesi kadının meşhur tuzla gelen başarısı: 6 yıldır bu yöntemle geçimini sağlıyor]]></title>
-      <description><![CDATA[Çankırı’nın meşhur tuzunu Türkiye’nin dört bir yanına tanıtan 56 yaşındaki Fatma Şahin, 6 yıldır yol kenarındaki küçük dükkanında hem satış yapıyor hem de ziyaretçilere tuzun faydalarını anlatıyor. Dört çocuk annesi Şahin, Çankırı–Ankara kara yolundan geçenlerin uğrak noktası haline gelen tezgahıyla aile ekonomisine katkı sunarken, yıllardır severek yaptığı bu işi 'aşkla' sürdürdüğünü dile getiriyor.]]></description>
-      <content:encoded><![CDATA[Çankırı'da yaşayan, 4 çocuk annesi 56 yaşındaki Fatma Şahin, Çankırı-Ankara kara yolunun kenarındaki dükkanda, kentin meşhur tuzunu satarak 6 yıldır evine ekmek götürüyor. 
-
-Fatma Şahin, Çankırı'ya gelen ve yoldan geçen vatandaşlara hem tuz satıyor hem de tuzun faydalarını anlatıyor.
-
-Türkiye'nin farklı şehirlerinden gelen vatandaşlara uzun yıllardır tuz sattığını ifade eden Şahin, mesleğini aşkla yaptığını dile getirdi.  
-
-&quot;BURADAN KAZANDIĞIM GELİRLE EVİMİ GEÇİNDİRİYORUM&quot;
-Kazandığı gelir ile ev ekonomisine katkıda bulunduğunu söyleyen Fatma Şahin, &quot;14 torun sahibiyim. Kadın olarak bu işin zorlukları tabii ki var. Ağır ürünleri kaldırırken zorluk çekiyorum ama bir o kadar da zevkli. Çankırı'nın meşhur tuzu yerin 150 metre altından çıkıyor. Bu tuz, astım ve nefes hastaları gibi çeşitli hastalıklara şifa oluyor. Buradan kazandığım gelirle evimi geçindiriyorum. Elektrik, doğal gaz gibi faturaları ödüyorum. Ürünlerim bittikçe yerine yenisini alabiliyorum. Ama biriktirmiyorum. Çocuklarımla yiyoruz, içiyoruz&quot; dedi.  
-
-&quot;ŞİFALI OLAN ÇANKIRI TUZUDUR&quot;
-Tuzların faydalarını anlatmanın kendisini mutlu ettiğini dile getiren Şahin, &quot;İran tuzları bazı yerlerde Çankırı tuzu diye satılıyor, İran tuzunun bir faydası yoktur, şifalı olan Çankırı tuzudur. Biz de Çankırı tuzu satıyoruz. Vatandaşlara tuzu ve faydalarını detaylı bir şekilde anlatıyorum. Kendim de deniyorum, müşteriye daha sonra öneriyorum. Benim kadın bir işletmeci olmamı vatandaşlar hoş görüyor. Türkiye'nin dört bir yanından hatta Almanya'dan bile arkadaş ve müşteriler edindim. Bu işi de gücüm yetene kadar sürdüreceğim&quot; dedi.          
-
-]]></content:encoded>
-      <link><![CDATA[https://www.mynet.com/4-cocuk-annesi-kadinin-meshur-tuzla-gelen-basarisi-6-yildir-bu-yontemle-gecimini-sagliyor-1315435-mykadin]]></link>
-      <media:content url="https://imgrosetta.mynet.com.tr/file/22367530/22367530-1200x675.jpg" expression="full" width="1200" height="675" type="image/jpeg">
-        <media:description type="plain"><![CDATA[4 çocuk annesi kadının meşhur tuzla gelen başarısı: 6 yıldır bu yöntemle geçimini sağlıyor]]></media:description>
-      </media:content>
-      <category>kadin-tv</category>
-      <tag>kadin-tv</tag>
-      <tag>kadin</tag>
-    </item>
-<item>
-      <guid isPermaLink="true">https://www.mynet.com/magazin/merve-taskin-suc-duyurusunu-duydu-kendim-geleyim-mi-karakola-130100560806</guid>
-      <pubDate>Tue, 25 Nov 2025 10:53:37 +0000</pubDate>
-      <title><![CDATA[Merve Taşkın suç duyurusunu duydu: "Kendim geleyim mi karakola?"]]></title>
-      <description><![CDATA[Fenomen Merve Taşkın ve Hülya Avşar hakkında suç duyurusu gündeme geldi. Daha önce de müstehcenlik suçlamasıyla yargılanan fenomen sosyal medyada bakın ne dedi.]]></description>
-      <content:encoded><![CDATA[Hülya Avşar ve fenomen Merve Taşkın hakkında, kamuoyunda tepki çeken ifadeleri nedeniyle savcılığa suç duyurusunda bulunuldu.
-Dilekçede her iki isim için “fuhuşa teşvik”, “müstehcenlik”, “suçu övme” ve “halkı aşağılamak” suçlamaları yöneltildi. Başvuruya göre, Avşar’ın YouTube programına konuk olan Taşkın’ın “fuhuşun kolay para kazanma yolu olduğu”, “lüks yaşam sağladığı” ve “özendirici nitelik taşıdığı” yönünde algı oluşturabilecek sözleri şikâyet konusu edildi.
-
-Suç duyurusu haberi gündem olduktan sonra fenomen Merve Taşkın sosyal medyada bir paylaşımda bulundu.
-
-Merve Taşkın paylaşımında “Hayırdır inşallah, bu sefer gözaltına almadınız beni. Bir sıkıntı yoktur umarım. Ben karakola kendim geleyim mi? O kadar hazırlandım; evde tüm gün oturup beni almaya geleceksiniz diye bekledim.” dedi.]]></content:encoded>
-      <link><![CDATA[https://www.mynet.com/magazin/merve-taskin-suc-duyurusunu-duydu-kendim-geleyim-mi-karakola-130100560806]]></link>
-      <media:content url="https://imgrosetta.mynet.com.tr/file/22274261/7b2270726f63657373223a7b2274797065223a22666f637573222c22636f6f7264696e61746573223a7b2278223a22302e3330222c2279223a222d302e3135227d7d7d/22274261-1200x675.png" expression="full" width="1200" height="675" type="image/jpeg">
-        <media:description type="plain"><![CDATA[Merve Taşkın suç duyurusunu duydu: "Kendim geleyim mi karakola?"]]></media:description>
-      </media:content>
-      <category>guncel</category>
-      <tag>guncel</tag>
-      <tag>magazin</tag>
-    </item>
-<item>
-      <guid isPermaLink="true">https://www.mynet.com/magazin/gullu-nun-olumuyle-ilgili-sasirtan-bir-iddia-daha-evde-bunun-icin-yasiyordu-130100562282</guid>
-      <pubDate>Tue, 02 Dec 2025 20:07:40 +0000</pubDate>
-      <title><![CDATA[Güllü'nün ölümüyle ilgili şaşırtan bir iddia daha! "Evde bunun için yaşıyordu"]]></title>
-      <description><![CDATA[Güllü'nün ölümüyle ilgili soruşturma devam ederken, çeşitli iddialar da ortaya atılıyor. Güllü'nün yardımcısının oğlu Osman Yıldız, sanatçının kızı Tuğyan'la ilgili çarpıcı açıklamalarda bulundu. Yıldız, "Tuğyan yapmadı bence, Sultan'a yaptırdı. Tuğyan, azmettirdi. Sultan da son bir aydır o evde bunun için yaşıyordu zaten" dedi.]]></description>
-      <content:encoded><![CDATA[ATV'de yer alan habere göre, soruşturma dosyasına giren yeni bir ses kaydında, Güllü'nün hayatını kaybettiği gece evde bulunan arkadaşı Sultan Nur Ulu ve kızı Tuğyan Ülkem Gülter'in yurt dışına kaçış planı yaptıkları belirlenmişti.
-Ses kayıtlarında Tuğyan Ülkem Gülter'in arkadaşına, &quot;Sen Fransa'ya nasıl gideceğini anladın değil mi? Pasaportsuz tırla. Fransa'ya bizzat gidebiliriz bir de Gürcistan hakkımız var hala&quot; dediği duyuluyor. Bu planlar, soruşturmanın &quot;kaza mı, cinayet mi?&quot; ekseninde ilerlediği bir dönemde büyük şok etkisi yarattı.
-
-Soruşturmada daha önce ortaya çıkan bir diğer ses kaydı ise Tuğyan Ülkem Gülter'in yakın arkadaşı Bircan Dülger ile arasında geçmişti. Bu kayıtta Bircan Dülger'in, &quot;Belli ki bu işte hiçbir suçum yokken yanacağım. Ama ben yarın savcılıkta seni yakacağım Tuğyan&quot; sözleri, olayın kilit isimleri arasındaki gerginliği gözler önüne seriyor.
-
-Dülger, Tuğyan Ülkem Gülter'in &quot;Abla sen gelip demedin mi 'Ferdi beni oğlumla tehdit etti' diye&quot; sözlerine karşılık, &quot;Tamam 'Beni tehdit etti' demiş olabilirim ama Ferdi'nin adamı mesajları zaten birebir hepsini çıkarttı&quot; şeklinde cevap veriyor.
-&quot;ANNEM ÖLSÜN&quot; MESAJLARI DOSYADA
-Tuğyan Ülkem Gülter'in, annesinin ölümünden önce Bircan Dülger'e attığı iddia edilen ve dosyaya giren kan dondurucu mesajlar da soruşturmanın en kritik delilleri arasında. İddiaya göre Tuğyan, Dülger'e &quot;Abla senin çevren geniş, beni bu kadından kurtar. Annem ölsün&quot; ifadelerini göndermişti.
-&quot;SULTAN'A YAPTIRDI&quot;
-Güllü'nün torununun bakıcısı Mukadder Çakır'ın oğlu Osman Yıldız, şarkıcının kızı Tuğyan Ülkem Gülter'le ilgili yeni iddialarda bulundu. Osman Yıldız, Tuğyan'ın daha önce kendisine annesini öldürmesi karşılığında bir daire vereceğini söylediğini dile getirmişti. Yıldız, &quot;Tuğyan, 18 yaşından küçük olduğum için daha az ceza alacağımı söyledi. Çınarcık'taki herkes Tuğyan'ı suçluyor. Tuğyan yapmadı bence, Sultan'a yaptırdı. Tuğyan, azmettirdi. Sultan da son bir aydır o evde bunun için yaşıyordu zaten. Güllü annenin kanı yerde kalmasın&quot; dedi.
-&quot;UYKULARIN KAÇSIN, TURPUN BÜYÜĞÜ HEYBEDE...&quot;
-Arkadaşı Sultan Nur Ulu ile yurt dışına kaçma planı yaptığına dair ses kayıtları ortaya çıkan Tuğyan Ülkem'den yeni açıklama akşam saatlerinde geldi.
-
-Tuğyan yaptığı açıklamada, &quot;Tanıklarının bir tanesi hariç hepsi sabıkalı, hepsi senin kontrolünde, (menfaatler...). Devran dönerse 'Bizi yönlendirdi.' derlerse, al sana yargıyı etkilemekten organize suç şebekesi... Demedi deme. Başkent Hukuk Bürosu bazen 22 kişi, bazen 20 kişiler; 'Davalarınıza bedava bakacak.' diyorsun. Sadede gel: sadece il dışı olmak üzere farklı büro adresleri olan üç avukat; kalan 19 avukat nerede? Atma be Recep, din kardeşiyiz. Uykuların kaçsın, turpun büyüğü heybede... Yakında vizyonda.&quot; ifadelerini kullandı.]]></content:encoded>
-      <link><![CDATA[https://www.mynet.com/magazin/gullu-nun-olumuyle-ilgili-sasirtan-bir-iddia-daha-evde-bunun-icin-yasiyordu-130100562282]]></link>
-      <media:content url="https://imgrosetta.mynet.com.tr/file/22385296/22385296-1200x675.jpg" expression="full" width="1200" height="675" type="image/jpeg">
-        <media:description type="plain"><![CDATA[Güllü'nün ölümüyle ilgili şaşırtan bir iddia daha! "Evde bunun için yaşıyordu"]]></media:description>
-      </media:content>
-      <category>guncel</category>
-      <tag>guncel</tag>
-      <tag>magazin</tag>
-    </item>
-<item>
-      <guid isPermaLink="true">https://haber.mynet.com/yer-kocaeli-uyaninca-yatak-odasinin-yikildigini-ogrendi-110107256350</guid>
-      <pubDate>Tue, 02 Dec 2025 17:34:00 +0000</pubDate>
-      <title><![CDATA[Yer: Kocaeli! Uyanınca yatak odasının yıkıldığını öğrendi]]></title>
-      <description><![CDATA[Kocaeli'de 5 katlı bir apartmanın yanındaki inşaat çalışması, 1'inci katındaki dairesinin odasının duvarını yıktı. Yatak odası betonla dolarken, uykuda olan ev sahibi olayı işçilerin zilini çalmasıyla öğrendi.]]></description>
-      <content:encoded><![CDATA[Olay, İzmit ilçesi Kadıköy Mahallesi Baycan Sokak'ta meydana geldi. Edinilen bilgiye göre, sokakta bulunan bir inşaatta beton atma çalışması yapılırken, yanındaki 5 katlı apartmanın 1'inci katındaki odanın duvarı yıkıldı. 
-
-ODANIN İÇİ BETONLA DOLDU
-Duvar tamamen yıkılırken, odanın içi betonla doldu. Daire sahibi M.R.Ç., yıkımı inşaat işçilerinin zili çalmasıyla öğrendi. Ev sahibi odaya girdiğinde gördüğü manzara karşısında şaşkına döndü. İhbar üzerine bölgeye AFAD ile itfaiye ekipleri sevk edildi. Ekipler dairede ve inşaat çalışmasında incelemelerde bulundu.
-
-Öte yandan, müteahhittin zararı karşılayacağı öğrenildi.Kaynak: İHA &nbsp; | &nbsp; Bu içerik Metin Yamaner tarafından yayına alınmıştır]]></content:encoded>
-      <link><![CDATA[https://haber.mynet.com/yer-kocaeli-uyaninca-yatak-odasinin-yikildigini-ogrendi-110107256350]]></link>
-      <media:content url="https://imgrosetta.mynet.com.tr/file/22384570/22384570-1200x675.jpg" expression="full" width="1200" height="675" type="image/jpeg">
-        <media:description type="plain"><![CDATA[Yer: Kocaeli! Uyanınca yatak odasının yıkıldığını öğrendi]]></media:description>
+Emniyetteki işlemlerinin ardından adliyeye sevk edilen S.A., çıkarıldığı mahkemece tutuklandı.
+Kaynak: İHA &nbsp; | &nbsp; Bu içerik Metin Yamaner tarafından yayına alınmıştır]]></content:encoded>
+      <link><![CDATA[https://haber.mynet.com/manda-yogurdu-satiyorum-deyip-dolandiricilik-yapan-kisi-tutuklandi-110107256151]]></link>
+      <media:content url="https://imgrosetta.mynet.com.tr/file/22371175/22371175-1200x675.jpg" expression="full" width="1200" height="675" type="image/jpeg">
+        <media:description type="plain"><![CDATA["Manda yoğurdu satıyorum" deyip dolandırıcılık yapan kişi tutuklandı]]></media:description>
       </media:content>
       <category>yasam</category>
       <tag>yasam</tag>
       <tag>haber</tag>
     </item>
 <item>
-      <guid isPermaLink="true">https://www.mynet.com/evim-gorunuyor-dedi-ust-gecidi-yiktirdi-190101295837</guid>
-      <pubDate>Tue, 02 Dec 2025 14:09:09 +0000</pubDate>
-      <title><![CDATA["Evim görünüyor" dedi! Üst geçidi yıktırdı!]]></title>
-      <description><![CDATA[Kocaeli'nin Körfez ilçesinde bir vatandaş, binasının önündeki üst geçidi "evinin içinin göründüğü" gerekçesiyle dava etti. Mahkeme kararıyla geçit yıkıldı, 1 metre ileriye yapıldı. Kararı değerlendiren bir vatandaş, "Şu anda yine ev gözüküyor, değişen fazla bir şey yok. Üste çıkıldığı zaman evi yine görebiliyoruz" dedi.]]></description>
-      <content:encoded><![CDATA[D-100 kara yolunun Yeniyalı ve Barbaros mahallelerini birbirine bağlayan noktasında 2012 yılında Karayolları Genel Müdürlüğü tarafından yapılan üst geçit, hukuk mücadelesine konu oldu.
+      <guid isPermaLink="true">https://finans.mynet.com/haber/detay/otomotiv/abd-den-bir-ulke-icin-otomobil-tarifesi-karari/522983</guid>
+      <pubDate>Tue, 02 Dec 2025 05:16:21 +0000</pubDate>
+      <title><![CDATA[ABD'den bir ülke için otomobil tarifesi kararı]]></title>
+      <description><![CDATA[Tarifelerle ilgili yeni bir gelişme yaşandı. Buna göre; ABD, Güney Kore'ye yönelik otomobil tarifesini yüzde 15'e indirecek! ABD Ticaret Bakanı Howard Lutnick, Güney Kore'den ithal edilen otomobillere uygulanan gümrük vergisi oranının yüzde 15'e indirileceğini duyurdu.]]></description>
+      <content:encoded><![CDATA[ABD Ticaret Bakanlığı, ABD merkezli X şirketinin sosyal medya platformundaki hesabından, Ticaret Bakanı Lutnick'in ABD ile Güney Kore arasındaki ticaret anlaşmasına ilişkin açıklamasını paylaştı.
 
-Geçidin Barbaros Mahallesi tarafındaki ayağının hemen yanında bulunan apartmanda yaşayan Taşyürek ailesi, yayaların evlerinin içini gördüğü gerekçesiyle 2014 yılında mahkemeye başvurdu.
-MAHKEMEDEN &quot;YIKILSIN&quot; KARARI
+Lutnick, yaptığı açıklamada, Güney Kore'nin stratejik yatırım yasasını parlamentoda resmen yürürlüğe koymak için harekete geçtiğini belirtti.
 
-Konuyu inceleyen Kocaeli İdare Mahkemesi'nin atadığı bilirkişi, raporunda geçidin teknik açıdan eksiklikler barındırdığını ve evin mahremiyetini ihlal ettiğini tespit etti. Raporda, iniş-çıkışların uygun hale getirilmesi veya geçidin kaldırılması gerektiği vurgulandı Mahkeme heyeti, 2016 yılında üst geçidin yıkılmasına hükmetti. Karayolları Genel Müdürlüğünün itirazı üzerine süreç istinafa taşınırken, dönemin ilçe belediyesi geçici çözüm olarak geçidin aileyi gören kısımlarını metal panellerle kapattı.
+&quot;ABD, BELİRLİ TARİFELERİ DÜŞÜRECEK&quot;
+Bu önemli adımın, ABD sanayisinin ve işçilerinin ABD Başkanı Donald Trump'ın Güney Kore ile yaptığı ticaret anlaşmasının tam faydasını görmesini sağlayacağını kaydeden Lutnick, &quot;Buna karşılık olarak ABD, anlaşma kapsamında otomobil tarifelerinin 1 Kasım itibarıyla yüzde 15'e indirilmesi dahil olmak üzere belirli tarifeleri düşürecek.&quot; ifadelerini kullandı.
 
-GEÇİT YIKILDI
-
-Hukuk sürecinin 2023 yılında tamamlanmasıyla üst mahkeme, itiraz yolu kapalı olmak üzere geçidin yıkılmasına yönelik nihai kararını verdi.
-Kararın ardından harekete geçen Karayolları ekipleri, geçen hafta başlattıkları çalışmayla üst geçidin sökümünü tamamladı. Yıkılan yapının yerine ise sadece 1 metre mesafede inşa edilen yeni üst geçit vatandaşların kullanımına sunuldu.
-
-&quot;EV YİNE GÖRÜNÜYOR, BİR ŞEY DEĞİŞMEDİ&quot;
-
-Üst geçidin sadece 1 metre kaydırıldığını söyleyen vatandaş Ömer Tek, şunları söyledi: &quot;Vatandaş evin göründüğünden dolayı üst geçidi mahkemeye veriyor. Uzun süren mahkemeyi vatandaş kazanıyor. Üst geçidi de gördüğünüz gibi 1 metre geri alıyorlar. Bir şeyi ifade eder mi, o da belli değil. Sonuçta vatandaş mahkemeyi kazanıyor. Mahkemeyi kazandığından dolayı üst geçit yıkılıyor, yenisini yapıyorlar. Evi, balkonunu, yatak odasını her tarafı görüyor. Şu anda yine ev gözüküyor, değişen fazla bir şey yok. Üste çıktığın zaman evi yine görebiliyoruz, 1 metre alınmasının pek de anlamı yok. Bu geçidi üstten komple kapatmaları gerekiyor.&quot;Kaynak: İHA &nbsp; | &nbsp; Bu içerik Jale Uslu tarafından yayına alınmıştır]]></content:encoded>
-      <link><![CDATA[https://www.mynet.com/evim-gorunuyor-dedi-ust-gecidi-yiktirdi-190101295837]]></link>
-      <media:content url="https://imgrosetta.mynet.com.tr/file/22382956/22382956-1200x675.jpg" expression="full" width="1200" height="675" type="image/jpeg">
-        <media:description type="plain"><![CDATA["Evim görünüyor" dedi! Üst geçidi yıktırdı!]]></media:description>
+Lutnick, uçak parçalarına yönelik tarifeleri de kaldıracaklarını ve Güney Kore'nin karşılıklı tarife oranını Japonya ve Avrupa Birliği (AB) ile eşleştirileceğini ifade etti. Kaynak: AA &nbsp; | &nbsp; Bu içerik Hande Dağ tarafından yayına alınmıştır]]></content:encoded>
+      <link><![CDATA[https://finans.mynet.com/haber/detay/otomotiv/abd-den-bir-ulke-icin-otomobil-tarifesi-karari/522983]]></link>
+      <media:content url="https://imgrosetta.mynet.com.tr/file/22372333/22372333-1200x675.jpg" expression="full" width="1200" height="675" type="image/jpeg">
+        <media:description type="plain"><![CDATA[ABD'den bir ülke için otomobil tarifesi kararı]]></media:description>
       </media:content>
-      <category>trend-haber</category>
-      <tag>trend-haber</tag>
-      <tag>trend</tag>
+      <category>haber</category>
+      <tag>otomotiv</tag>
+      <tag>haber</tag>
+      <tag>finans</tag>
     </item>
 <item>
-      <guid isPermaLink="true">https://www.mynet.com/canli-trabzonspor-tumosan-konyaspor-mac-anlatimi-mac-ne-zaman-saat-kacta-ve-hangi-kanalda-29-kasim-2025-452257-myspor</guid>
-      <pubDate>Fri, 28 Nov 2025 21:06:06 +0000</pubDate>
-      <title><![CDATA[(Özet) Trabzonspor - Tümosan Konyaspor Maçı Özeti ve Tüm Önemli Anları]]></title>
-      <description><![CDATA[Trabzonspor, Süper Lig'in 14. haftasında Konyaspor'u 3-1 mağlup ederek zirve takibini sürdürdü. Onuachu'nun iki golü ve Muci'nin katkısıyla önemli bir galibiyet aldı.]]></description>
-      <content:encoded><![CDATA[Süper Lig'in 14.haftasında Trabzonspor evinde Konyaspor ile karşılaştı. Maçtan 3-1'lik skorla galip ayrılan bordo-mavililer zirve takibini sürdürdü. Maçta Trabzonspor'un gollerini Onuachu (2) ve Muci atarken, Konyaspor'un tek golü Okay Yokuşlu'nun kendi kalesine attığı golle geldi. İşte maçın özeti...
-
-29.11.2025 - 21:54 
-  
- ## MAÇTA SON DÜDÜK! TRABZONSPOR KAZANDI! 
- Ve maç sona erdi. 
- ----- 
-***87. Dakika***
-
-
-OYUNCU DEĞİŞİKLİĞİ | TÜMOSAN KONYASPOR
-Tümosan Konyaspor takımının teknik direktörü, oyuncu değişikliği ile maça müdahale ediyor. Melih İbrahimoğlu çıkıyor ve yerine Kaan Akyazı oyuna giriyor.
-
-87. Dakika
-
-
-OYUNCU DEĞİŞİKLİĞİ | TÜMOSAN KONYASPOR
-Tümosan Konyaspor takımının teknik direktörü, oyuncu değişikliği ile maça müdahale ediyor. Morten Bjorlo çıkıyor ve yerine İsmail Esat Buğa oyuna giriyor.
-
-85. Dakika
-
-
-OYUNCU DEĞİŞİKLİĞİ | TRABZONSPOR
-Trabzonspor takımının teknik direktörü, oyuncu değişikliği ile maça müdahale ediyor. Ernest Muci çıkıyor ve yerine Ozan Tufan oyuna giriyor.
-
-84. Dakika
-
-
-İSABETSİZ ŞUT | TÜMOSAN KONYASPOR
-Bu dakikada Tümosan Konyaspor takımı gole çok yaklaşıyor. Altı pas içerisinden Melih Bostan tarafından çekilen şut kaleyi bulmuyor.
-
-84. Dakika
-
-
-İSABETSİZ ŞUT | TÜMOSAN KONYASPOR
-Morten Bjorlo rakip ceza sahasına girmeden şansını deniyor ancak top dışarı çıkıyor.
-
-83. Dakika
-
-
-KORNER | TÜMOSAN KONYASPOR
-Tümosan Konyaspor, Pedrinho ile köşe vuruşu kullanıyor.
-
-82. Dakika
-
-
-ENGELLENEN ŞUT | TÜMOSAN KONYASPOR
-Ceza sahası içinde topla buluşan Melih İbrahimoğlu, sağ çaprazdan vuruşunu yapıyor, savunma araya girerek tehlikeyi önlüyor.
-
-82. Dakika
-
-
-İSABETLİ ŞUT | TÜMOSAN KONYASPOR
-Jo Jin-Ho tarafından çekilen şutu kaleci kurtarıyor.
-
-85. Dakika
-
-
-OYUNCU DEĞİŞİKLİĞİ | TRABZONSPOR
-Trabzonspor takımının teknik direktörü, oyuncu değişikliği ile maça müdahale ediyor. Mustafa Eskihellaç çıkıyor ve yerine Rayyan Baniya oyuna giriyor.
-
-82. Dakika
-
-
-OYUNCU DEĞİŞİKLİĞİ | TÜMOSAN KONYASPOR
-Tümosan Konyaspor takımının teknik direktörü, oyuncu değişikliği ile maça müdahale ediyor. Umut Nayir çıkıyor ve yerine Melih Bostan oyuna giriyor.
-
-80. Dakika
-
-
-ENGELLENEN ŞUT | TRABZONSPOR
-Bu dakikada Trabzonspor takımı tabelayı değiştirme fırsatına çok yaklaşıyor. Altı pas içerisinden Arseniy Batagov tarafından çekilen şut defans tarafından engelleniyor.
-
-80. Dakika
-
-
-KORNER | TRABZONSPOR
-Trabzonspor, Oleksandr Zubkov ile köşe vuruşu kullanıyor.
-
-79. Dakika
-
-
-İSABETLİ ŞUT | TRABZONSPOR
-Ernest Muci tarafından çekilen şutu kaleci kurtarıyor.
-
-77. Dakika
-
-
-SARI KART | TRABZONSPOR
-Trabzonspor takımında Christ Inao Oulai hakem Alper Akarsu tarafından sarı kart ile cezalandırılıyor.
-
-76. Dakika
-
-
-SARI KART | TÜMOSAN KONYASPOR
-Tümosan Konyaspor takımında Guilherme Sitya, sarı kart görüyor.
-
-76. Dakika
-
-
-İSABETSİZ ŞUT | TRABZONSPOR
-Trabzonspor takımı Christ Inao Oulai ile gol fırsatını değerlendiremiyor. Ceza sahasının dışından kaleyi cepheden gören bir noktadan  Christ Inao Oulai tarafından çekilen şut  çerçeveyi bulmuyor.
-
-75. Dakika
-
-
-ENGELLENEN ŞUT | TRABZONSPOR
-Trabzonspor takımı Ernest Muci ile gol fırsatını değerlendiremiyor. Ceza sahasının dışından kaleyi cepheden gören bir noktadan  Ernest Muci tarafından çekilen şut defansın müdahalesiyle engelleniyor.
-
-74. Dakika
-
-
-İSABETSİZ ŞUT | TRABZONSPOR
-Oleksandr Zubkov ceza sahası içinde sol çaprazdan şansını deniyor ancak top dışarı çıkıyor.
-
-73. Dakika
-
-
-OYUNCU DEĞİŞİKLİĞİ | TRABZONSPOR
-Trabzonspor takımında oyuncu değişikliği; Kazeem Olaigbe oyundan çıkarken Arif Boşluk oyuna giren isim.
-
-72. Dakika
-
-
-OYUNCU DEĞİŞİKLİĞİ | TRABZONSPOR
-Trabzonspor takımında oyuncu değişikliği; Benjamin Bouchouari oyundan çıkarken Danylo Sikan oyuna giren isim.
-
-69. Dakika
-
-
-OFSAYT | TÜMOSAN KONYASPOR
-Jackson Muleka ceza sahası içinde altıpas üzerinde ofsayta yakalanıyor.
-
-69. Dakika
-
-
-İSABETLİ ŞUT | TÜMOSAN KONYASPOR
-Jo Jin-Ho tarafından çekilen şutu kaleci kurtarıyor.
-
-69. Dakika
-
-
-ENGELLENEN ŞUT | TÜMOSAN KONYASPOR
-Tümosan Konyaspor takımı bu dakikada tabelayı değiştirme fırsatına yaklaşıyor ancak ceza sahasının dışından kaleyi cepheden gören bir noktadan Melih İbrahimoğlu tarafından çekilen şut defansın müdahalesiyle engelleniyor.
-
-67. Dakika
-
-
-OFSAYT | TÜMOSAN KONYASPOR
-Rakip yarı alanın ortalarında bulunan Guilherme Sitya için ofsayt bayrağı kalkıyor.
-
-64. Dakika
-
-
-İSABETSİZ ŞUT | TÜMOSAN KONYASPOR
-Melih İbrahimoğlu rakip yarı alanın ortalarında uzak mesafeden şansını deniyor ancak top dışarı çıkıyor.
-
-59. Dakika
-
-
-İSABETSİZ ŞUT | TRABZONSPOR
-Oleksandr Zubkov önemli bir poziyonu değerlendiremiyor. Ceza sahasının dışından kaleyi cepheden gören bir noktadan  Oleksandr Zubkov tarafından çekilen şut kaleyi bulmuyor.
-
-57. Dakika
-
-
-OYUNCU DEĞİŞİKLİĞİ | TÜMOSAN KONYASPOR
-Tümosan Konyaspor takımında oyuncu değişikliği; Muzaffer Utku Eriş oyundan çıkarken Yasir Subaşı oyuna giren isim.
-
-58. Dakika
-
-
-OYUNCU DEĞİŞİKLİĞİ | TÜMOSAN KONYASPOR
-Tümosan Konyaspor takımında oyuncu değişikliği; Enis Bardhi oyundan çıkarken Pedrinho oyuna giren isim.
-
-56. Dakika
-
-
-GOL | TRABZONSPOR
-GOL! Ernest Muci ile Trabzonspor farkı 2'ye çıkarıyor.
-
-50. Dakika
-
-
-ASİST | TRABZONSPOR
-Golün asistini yapan isim Mustafa Eskihellaç.
-
-55. Dakika
-
-
-SARI KART | TÜMOSAN KONYASPOR
-Tümosan Konyaspor takımında Jackson Muleka hakem Alper Akarsu tarafından sarı kart ile cezalandırılıyor.
-
-50. Dakika
-
-
-GOL | TRABZONSPOR
-GOL! Paul Onuachu takımını öne geçiren golü atıyor.
-
-47. Dakika
-
-
-ENGELLENEN ŞUT | TRABZONSPOR
-Trabzonspor takımı Kazeem Olaigbe ile gol fırsatını değerlendiremiyor. Ceza sahası sağ iç çaprazında Kazeem Olaigbe tarafından çekilen şut defansın müdahalesiyle engelleniyor.
-
-46. Dakika
-
-
-İSABETSİZ ŞUT | TÜMOSAN KONYASPOR
-Jackson Muleka rakip yarı alanın ortalarında kaleye uzak sayılabilecek bir mesafeden şansını deniyor ancak top dışarı çıkıyor.
-
-46. Dakika
-
-
-İKİNCİ YARI BAŞLADI
-Hakem ikinci yarıyı başlatıyor.
-
-45. Dakika
-
-
-İLK YARI SONU
-Hakem müsabakanın ilk yarısını bitiriyor
-
-45. Dakika
-
-
-KORNER | TÜMOSAN KONYASPOR
-Guilherme Sitya ile Tümosan Konyaspor takımı köşe vuruşu kullanacak.
-
-45. Dakika
-
-
-ENGELLENEN ŞUT | TÜMOSAN KONYASPOR
-Guilherme Sitya rakip yarı alanın ortalarında uzak mesafeden şansını deniyor ancak savunmaya çarpan top tehlikeli bölgeden uzaklaşıyor.
-
-43. Dakika
-
-
-PENALTI GOLÜ | TRABZONSPOR
-GOL! Paul Onuachu penaltı atışında topu ağlara gönderiyor.
-
-39. Dakika
-
-
-ENGELLENEN ŞUT | TRABZONSPOR
-Trabzonspor takımı bu dakikada tabelayı değiştirme fırsatına yaklaşıyor ancak ceza sahasının dışından kaleyi sağ çaprazdan gören bir noktadan Mustafa Eskihellaç tarafından çekilen şut defansın müdahalesiyle engelleniyor.
-
-36. Dakika
-
-
-KORNER | TRABZONSPOR
-Oleksandr Zubkov ile Trabzonspor takımı köşe vuruşu kullanacak.
-
-34. Dakika
-
-
-İSABETSİZ ŞUT | TRABZONSPOR
-Ernest Muci rakip ceza sahasının hemen dışında kaleyi karşısına alıp şansını deniyor ancak top dışarı çıkıyor.
-
-24. Dakika
-
-
-İSABETSİZ ŞUT | TRABZONSPOR
-Paul Onuachu penaltı noktası çevresinden şansını deniyor ancak top dışarı çıkıyor.
-
-17. Dakika
-
-
-İSABETLİ ŞUT | TÜMOSAN KONYASPOR
-Melih İbrahimoğlu tarafından çekilen şutu kaleci kurtarıyor.
-
-17. Dakika
-
-
-ENGELLENEN ŞUT | TÜMOSAN KONYASPOR
-Tümosan Konyaspor takımı bu dakikada tabelayı değiştirme fırsatına yaklaşıyor ancak ceza sahası içi sağ çaprazından Yhoan Andzouana tarafından çekilen şut defansın müdahalesiyle engelleniyor.
-
-17. Dakika
-
-
-GOL | TÜMOSAN KONYASPOR
-GOL! Okay Yokuşlu takımını öne geçiren golü atıyor.
-
-14. Dakika
-
-
-İSABETSİZ ŞUT | TÜMOSAN KONYASPOR
-Ceza sahası içinde topla buluşan Enis Bardhi, altıpas üzerinden vuruşunu yapıyor, top dışarı çıkıyor.
-
-10. Dakika
-
-
-İSABETLİ ŞUT | TÜMOSAN KONYASPOR
-Tümosan Konyaspor için Melih İbrahimoğlu şut atıyor. Kaleci kurtarıyor.
-
-6. Dakika
-
-
-İSABETLİ ŞUT | TÜMOSAN KONYASPOR
-Tümosan Konyaspor için Enis Bardhi şut atıyor. Kaleci kurtarıyor.
-
-5. Dakika
-
-
-KORNER | TRABZONSPOR
-Oleksandr Zubkov ile Trabzonspor takımı köşe vuruşu kullanacak.
-
-4. Dakika
-
-
-İSABETLİ ŞUT | TRABZONSPOR
-Kazeem Olaigbe tarafından çekilen şutu kaleci kurtarıyor.
-
-1. Dakika
-
-
-MAÇ BAŞLADI
-İlk düdük çalıyor ve maç başlıyor.
-
-Trabzonspor Süper Lig'in 14.haftasında evinde Konyaspor'u ağırlıyor. Bordo-mavili ekip geçtiğimiz hafta deplasmanda Başakşehir ile gol düellosuna sahne olan maçtan 4-3 galip ayrılırken, Konyaspor ise evinde Antalyaspor le 0-0 berabere kaldı. Peki, Trabzonspor - Konyaspor maçı ne zaman, saat kaçta, hangi kanalda? Karşılaşmaya dair son dakika gelişmeleri, canlı yayın bilgileri ve ilk 11'ler haberimizde...
-19:08
-
-KADROLAR AÇIKLANDI !
-Trabzonspor - Tümosan Konyaspor maçının kadroları açıklandı.
-Trabzonspor: Onana, Pina, Batagov, Okay, Mustafa, Oulai, Bouchouari, Zubkov, Muçi, Olaigbe, Onuachu
-Konyaspor: Bahadır, Yhoan, Uğurcan, Utku, Guilherme, Jin-ho- Melih, Morten, Bardhi, Muleka, Umut
-
-29.11.2025 - 19:00 
-  
- ## TRABZONSPOR'DA 3 İSİM YOK! 
- Trabzonspor'da son maçta sakatlanan Tim Folcarelli ile tedavi süreci tamamlanmasına rağmen tam anlamıyla hazır duruma gelemeyen Savic’in de ilk 11’de olmayacağı öğrenildi. Öte yandan sakatlık sebebiyle sezonu kapatan Visca da eksikler listesine yer alıyor.
- ----- 
-***29.11.2025 - 18:58*** 
-  
- ## EKSİKLER CAN SIKIYOR! 
- Ligde orta sıralarda bulunan Konyaspor’da, Trabzonspor deplasmanı öncesi önemli eksikler var. Bahis cezası alan Ndao ve kart cezalısı Adil Demirbağ bu maçta yoklar. Bazoer ile Jevtovic sakat. Tunahan Taşçı da kırmızı kart cezalısı. 
- ----- 
-***29.11.2025 - 18:57*** 
-  
- ## TRABZONSPOR - KONYASPOR MAÇI NE ZAMAN, SAAT KAÇTA, HANGİ KANALDA? 
- Bu akşam Papara Park'ta oynanacak Trabzonspor - Konyaspor maçı saat 20.00'da başlayacak. Sonucu merakla beklenen karşılaşma beIN Sports HD 1'den canlı yayınlanacak. 
- ----- 
-***09:00 - 29 Kasım 2025***
-
-FATİH TEKKE'DEN 'ŞAMPİYONLUK' ÇIKIŞI! 'HANIMIMA BİLE ANLATAMIYORUM' DİYEREK İSYAN ETTİ
-
-RAMS Başakşehir'i 4-3 yenerek zirve takibini sürdüren Trabzonspor'da, teknik direktör Fatih Tekke, maç sonu şampiyonluk yarışıyla ilgili dikkat çeken açıklamalarda bulundu. Kendilerinden çok daha iyi kadrolara sahip takımların bulunduğunu belirten Tekke, &quot;Hanımıma bile anlatamıyorum, o bile dışarıdaki insanlar gibi, 'Biz şampiyon olacağız.' diyor.  1 ile 4 arasında konumlanırsak çok iyi başarı. Birileri, 'Biz, bu takımı şampiyon yaparız.' diyebilir. Buyursun gelsinler.&quot; dedi.
-
-05:00 - 29 Kasım 2025
-
-ERNEST MUÇİ'DEN BEŞİKTAŞ TARAFTARINI ÜZECEK AÇIKLAMA
-
-Trabzonspor’un Arnavut futbolcusu Ernest Muçi, takım içindeki rekabet seviyesinin yüksek olduğunu ve bordo-mavili ekipte kendisini aile ortamında hissettiğini söyledi.
-
-]]></content:encoded>
-      <link><![CDATA[https://www.mynet.com/canli-trabzonspor-tumosan-konyaspor-mac-anlatimi-mac-ne-zaman-saat-kacta-ve-hangi-kanalda-29-kasim-2025-452257-myspor]]></link>
-      <media:content url="https://imgrosetta.mynet.com.tr/file/22345204/22345204-1200x675.jpg" expression="full" width="1200" height="675" type="image/jpeg">
-        <media:description type="plain"><![CDATA[(Özet) Trabzonspor - Tümosan Konyaspor Maçı Özeti ve Tüm Önemli Anları]]></media:description>
+      <guid isPermaLink="true">https://www.mynet.com/magazin/feci-kazada-olmustu-paul-walker-in-kizi-meadow-walker-son-hali-merak-edildi-130100561853</guid>
+      <pubDate>Mon, 01 Dec 2025 04:32:08 +0000</pubDate>
+      <title><![CDATA[Feci kazada ölmüştü! Paul Walker'ın kızı Meadow Walker son hali merak edildi]]></title>
+      <description><![CDATA[Hızlı ve Öfkeli'nin yıldızı Paul Walker, 30 Kasım 2013'te geçirdiği feci bir trafik kazasında hayatını kaybetmişti. Vefatının 12. yılında ünlü oyuncu anılırken o dönem küçük olan kızı Meadow Walker da son haliyle gündeme geldi.]]></description>
+      <content:encoded><![CDATA[Paul Walker, 30 Kasım 2013'te, henüz 40 yaşındayken, arkadaşı Roger Rodas'ın kullandığı Porsche Carrera GT marka araçla geçirdiği trafik kazasında hayatını kaybetti. 
+Kaza, Walker'ın kurucusu olduğu Reach Out WorldWide (ROWW) adlı yardım kuruluşunun etkinliğinden ayrıldıktan sonra meydana gelmişti. Rodas'ın kontrolünü kaybettiği araç, yaklaşık 160 km/s hızla giderken bir direğe çarparak alev almıştı. Paul Walker, olay yerinde hayatını kaybetmişti.
+
+Hızlı ve Öfkeli serisinin başrol oyuncusu Paul Walker ölüm yıldönümünde anılırken akıllara o dönem 15 yaşında olan kızı geldi.
+
+Meadow, artık model olarak kariyerine devam ediyor. 
+
+Markaların ilgisini çeken ve podyumların aranan modellerinden olan Meadow Walker, zamanla büyük bir takipçi kitlesi de edindi. Genç model Meadow sosyal medyayı da aktif kullanıyor. ]]></content:encoded>
+      <link><![CDATA[https://www.mynet.com/magazin/feci-kazada-olmustu-paul-walker-in-kizi-meadow-walker-son-hali-merak-edildi-130100561853]]></link>
+      <media:content url="https://imgrosetta.mynet.com.tr/file/22352446/22352446-1200x675.png" expression="full" width="1200" height="675" type="image/jpeg">
+        <media:description type="plain"><![CDATA[Feci kazada ölmüştü! Paul Walker'ın kızı Meadow Walker son hali merak edildi]]></media:description>
       </media:content>
-      <category>futbol</category>
-      <tag>super-lig</tag>
-      <tag>futbol</tag>
-      <tag>spor</tag>
+      <category>guncel</category>
+      <tag>guncel</tag>
+      <tag>magazin</tag>
+    </item>
+<item>
+      <guid isPermaLink="true">https://haber.mynet.com/kabine-toplantisi-sona-erdi-cumhurbaskani-erdogan-dan-onemli-aciklamalar-110107256139</guid>
+      <pubDate>Mon, 01 Dec 2025 16:09:28 +0000</pubDate>
+      <title><![CDATA[Cumhurbaşkanı Erdoğan'dan Kabine sonrası önemli açıklamalar: "Türkiye hedeflerine er ya da geç ulaşacaktır"]]></title>
+      <description><![CDATA[Cumhurbaşkanlığı Kabinesi, Cumhurbaşkanı Recep Tayyip Erdoğan başkanlığında toplandı. Cumhurbaşkanı Erdoğan, kritik toplantı sonrasında önemli açıklamalarda bulundu. Erdoğan, "Biz ayağına çelme takılınca, yolu kesilince yolundan dönecek bir millet değiliz. Hele hele tehditler karşısında ürkecek, korkacak, çekinecek, tehdit diline boyun eğecek millet, böyle bir devlet ve ülke hiç değiliz. Türkiye, hedeflerine er ya da geç, öyle ya da böyle ulaşacaktır." dedi.]]></description>
+      <content:encoded><![CDATA[Cumhurbaşkanı Recep Tayyip Erdoğan başkanlığında gerçekleştirilen Cumhurbaşkanlığı Kabine Toplantısı sona erdi. Cumhurbaşkanlığı Külliyesi'ndeki Kabine Toplantısı'nın ardından millete seslenen Erdoğan, dış politikadan sanayiye, ekonomiden güvenliğe birçok konuyu mütalaa ettikleri Kabine Toplantısı'nda aldıkları kararların ülke, millet ve tüm insanlık için hayırlı olmasını diledi.
+
+Erdoğan, hangi siyasi görüşten, etnik kökenden olursa olsun, Türkiye için çalışan, Türkiye için dertlenen, kalbi Türkiye için atan herkese teşekkür etti.
+Küresel sistemdeki çatırdamaların olumsuz etkilerinin en fazla hissedildiği, kırılgan bir dönemden geçildiğine dikkati çeken Erdoğan, yakın çevreye baktıklarında savaşların, çatışmaların, gerilimlerin, siyasi ve ekonomik dalgalanmaların hiç eksik olmadığının görüldüğünü söyledi.
+Türkiye'nin içinde yer aldığı bölgenin, şairin &quot;Akrebin kıskacında yoğurmuş bizi kader.&quot; anlamını bulan sürecin tam ortasında olduğunu vurgulayan Erdoğan, şunları kaydetti:
+&quot;Daha önceki konuşmalarımda yaklaşan küresel bir kasırgadan bahsetmiş, bunun farklı kıtalarda taşları yerinden oynatacağına dikkat çekmiştim. Türkiye'nin bu kasırgayı suhuletle yönetebilecek imkan ve kabiliyetleri haiz olduğunu da dile getirmiştim. 2025'in geride bıraktığımız 11 ayını şöyle bir gözden geçirdiğimizde liyakatli, tecrübeli, donanımlı ve çalışkan kadroların yönetiminde ülkemizin başarılı bir şekilde zorlukların üstesinden geldiğini müşahede ediyoruz. Türkiye, etrafındaki bütün olumsuzluklara karşı bir istikrar adası, bir huzur ve güvenlik adası olma vasfını hamdolsun muhafaza ediyor. Muhalefetin karşı çıkmasına rağmen son 23 yılda ülkemize her alanda kazandırdığımız güçlü altyapının değerini bugün çok daha iyi anlıyoruz.
+
+Bilhassa, finansman imkanlarının bol olduğu dönemlerde yap-işlet-devret modeliyle hayata geçirdiğimiz Avrasya Tüneli, İstanbul Havalimanı, Kuzey Marmara Otoyolu, Osmangazi Köprüsü, İzmir Otoyolu ve Çanakkale Köprüsü gibi pek çok projemizin stratejik önemi bugün ortaya çıkıyor. Diğerleri ile birlikte zamanında 50-51 milyar dolarlık bir bütçe ile hizmete aldığımız projeleri bugün inşa etmeye kalksak ihtiyaç duyulan rakam, dikkatinizi çekiyorum, 90 milyar dolara yaklaşıyor. Bakın bu tutar, sadece yapım maliyetidir. Biz, bu eserleri yıllardır kullanıyoruz. Milletimiz, bunlardan yıllardır istifade ediyor. Bu yatırımlar, Türkiye ekonomisine milyarlarca liralık katma değer sağlıyor.&quot;
+&quot;KIZILELMA DÜNYA HAVACILIK TARİHİNDE BİR İLKE İMZA ATTI&quot;
+Cumhurbaşkanı Erdoğan, sadece ulaştırmada değil savunma sanayisinden sağlığa birçok alanda benzer bir tablonun söz konusu olduğunu dile getirdi.
+
+En son koronavirüs salgını döneminde şehir hastanelerinin nasıl hayat kurtardığının hep beraber görüldüğünü anımsatan Erdoğan, şunları ifade etti:
+&quot;İnsansız savaş uçağımız KIZILELMA, dünya havacılık tarihinde bir ilke hafta sonu imza attı yani her alanında bu dinamizmi, bu atılımı yaşıyoruz. Şunu da büyük bir gururla ifade etmek isterim. Şayet biz, siyaseti yapılan her işe kulp takmak olarak gören müzmin muhaliflere itibar etseydik bu muhteşem eserlerin hiçbirini ülkemize kazandıramazdık. Ne Avrasya Tüneli'ni ne Zigana Geçidi'ni ne de bugün dünyanın en iyi havalimanları arasında gösterilen İstanbul Havalimanı'nı yapabilirdik ama biz, bu vizyonsuzlar korosuna hiçbir zaman kulak asmadık. Onların ülkemiz için kurduğumuz hayallerimizle aramıza girmelerine müsaade etmedik. Eser ve hizmet siyasetimizle Türkiye'yi tarihinin en büyük yatırımlarıyla buluşturduk. 238 milyar dolar olan milli gelirimizi yıllık bazda 1,5 trilyon dolara çıkardık. 2028 için hedefimiz, 1,9 trilyon dolarlık ekonomik büyüklüğe ulaşmaktır. Bugün TÜİK tarafından yüzde 3,7 olarak açıklanan üçüncü çeyrek büyüme rakamları, doğru yolda olduğumuzu göstermiştir. Türkiye ekonomisi, kesintisiz büyüme trendini 21 çeyreğe taşımıştır. Büyüme rakamlarının ülkemiz ekonomisi için hayırlı olmasını diliyorum.&quot;
+Erdoğan, sadece ekonomi ve yatırımlarda değil temel hak ve özgürlüklerde de çok büyük ilerlemeler kaydettiklerini söyledi.
+Reform hamleleriyle, on yıllardır milli iradenin tepesinde Demokles'in kılıcı misali sallanan vesayete son verdiklerini anlatan Erdoğan, &quot;Milletimize zaten anasının ak sütü gibi helal olan haklarını teslim etmenin yanı sıra demokrasimizin standartlarını yükselttik. Gezi olayları ve 15 Temmuz ihaneti gibi bağımsızlığımıza yönelik kökü dışarıda gelişimleri milletimizle birlikte bozguna uğrattık.&quot; dedi.
+
+&quot;TEHDİTLER KARŞISINDA KORKACAK BİR MİLLET VE DEVLET DEĞİLİZ&quot;
+Cumhurbaşkanı Erdoğan, terörün her çeşidiyle mücadelede tarihi nitelikte başarılar elde edildiğini söyledi.
+Şimdi bu mücadeleyi taçlandırmak amacıyla hassas bir sürecin yönetildiğini belirten Erdoğan, &quot;Terörsüz Türkiye süreciyle ekonomik şahlanışımızın, huzurumuzun ve kardeşliğimizin önündeki en büyük engellerden birini ortadan kaldırmanın samimi çabası içerisindeyiz.&quot; diye konuştu.
+
+İhtirasları boylarını aşanların aksine, kökleri çok eskiye uzanan kadim bir devlet geleneğine sahip olunduğunun altını çizen Erdoğan, &quot;Merkezinde bulunduğumuz bu coğrafyada tam 1000 yıldır istiklaline halel getirmeden özgürce yaşayan nadir milletlerden biriyiz. Aynı şekilde biz, ayağına çelme takılınca, yoluna engel konulunca, yolu kesilince girdiği yoldan dönecek bir millet de değiliz. Hele hele tehditler karşısında ürkecek, korkacak, çekinecek, tehdit diline boyun eğecek bir millet, böyle bir devlet, böyle bir ülke hiç değiliz.&quot; ifadelerini kullandı.
+Türkiye'nin hedeflerine er ya da geç, öyle veya böyle ama mutlaka ulaşacağının altını çizen Erdoğan, şunları kaydetti:
+&quot;Tarihimiz, bunun sayısız örnekleriyle doludur. Tekrar altını çizerek söylüyorum. Kürt, Arap kardeşlerimizle ve bölgemizdeki diğer dost ve kardeş topluluklarla kalplerimiz tam 1000 yıldır beraber atıyor. İnşallah gelecekte de birlikte atmaya devam edecek. İster Sünni, ister Şii olsun, ister Kürt, ister Arap, ister Türkmen olsun, Allah korusun yarın birimizin başı dara düştüğünde başkalarının değil yine birbirimizin kapısını çalacağız, yine birbirimize sığınacağız. Ev sahibi olduğumuz bu coğrafyada daha nice asırlar boyunca kardeşçe kader birliği halinde yan yana yaşayacağız. Bu hakikati ne dönemsel hesaplar değiştirebilir ne de bölgemize dışarıdan monte edilenlerin pervasızlıkları gölgeleyebilir. Coğrafyamız, artık kana, çatışmaya, teröre, komşunun komşuyu kırdığı kör şiddete doymuştur. Biz, meselelere işte bu pencereden bakıyoruz.&quot;
+&quot;YENİ BİR DÖNEMİN KAPILARI AÇILACAK&quot;
+Türkiye olarak 86 milyon vatandaş için istediklerini sınırların ötesindeki herkes için de murat ettiklerini dile getiren Erdoğan, şunları söyledi:
+
+&quot;Bizi birbirimize düşürerek hepimize kaybettirmek isteyen kaos ve katliam şebekelerine karşı kardeşlikle, hep beraber kazanmayı savunuyoruz. Bu coğrafyada geleceğine güvenle bakmak isteyen herkes için de başka bir yol, başka bir çare, başka bir yöntem yoktur ve olamaz. Umuyor ve inanıyorum ki Terörsüz Türkiye süreciyle bölgemizde tesis edeceğimiz kardeşlik kuşağı, bütün kirli hesapları alt üst edecek, asırlık oyunları bozacak, yeni bir dönemin kapılarını açacaktır. Tahriklere kapılmadan, provokasyonlara aldanmadan, öfkenin diline teslim olmadan bu kuşağın kuvveden fiile çıkması için samimiyetle çalışacağız. Hiç kimsenin kuşkusu, endişesi olmasın. 86 milyon omuz omuza, gönül gönüle verecek, birlikte çalışacak ve 21. yüzyılı 'Türkiye Yüzyılı' haline inşallah hep birlikte getireceğiz.&quot;
+Erdoğan, 18 Kasım'da HAK-İŞ Konfederasyonunun 50. kuruluş yıl dönümü programında olduğunu anımsatarak, HAK-İŞ ailesinin 50. yaşını bir kez daha kutlayarak sendikal hayata katkıları için teşekkürlerini iletti.
+Cumhurbaşkanlığı Millet Kütüphanesi'nde 20 Kasım'da Aile ve Kültür Sanat Sempozyumu'nun kapanış oturumuna katıldıklarını hatırlatan Erdoğan, &quot;Bu önemli sempozyumda kentleşme, dijital kültür, aile içi iletişim ve nüfus politikaları gibi kritik pek çok konu ele alındı. Milli değerlerimizin odak noktası olan ailenin güçlendirilmesi, demografik yapımızın iyileştirilmesi ve gelecek kuşakların zengin bir aile mirasını devralması için kararlı bir şekilde çalışıyoruz.&quot; dedi.
+&quot;GÜNEY KORE İLE ORTAK PROJELER GELİŞTİRMEYE DEVAM EDİYORUZ&quot;
+Cumhurbaşkanı Erdoğan, 24 Kasım Öğretmenler Günü'nde öğretmen ve öğrencilerle Cumhurbaşkanlığı Külliyesi'nde bir araya geldiklerini belirterek, &quot;Aynı programda kuraları çekilen 15 bin yeni öğretmen adayımızın atama heyecanını paylaştık. Yeni atanan öğretmenlerimizi tekrar tebrik ediyor, ülkemizde ve dünyanın dört bir yanında maarif davamıza omuz veren öğretmenlerimize teşekkür ediyorum.&quot; diye konuştu.
+
+Aynı gün Güney Kore Cumhurbaşkanı Lee Jae Myung'u külliyede ağırladıklarını dile getiren Erdoğan, şunları kaydetti:
+&quot;Sayın Cumhurbaşkanı'yla Türkiye-Güney Kore arasındaki geniş işbirliği imkanlarını değerlendirdik. Togg'dan sonra Hyundai şirketi de İzmit'teki fabrikasında yüzde 100 elektrikli araç üretmeye başlayacak. Şimdiden hayırlı, uğurlu olsun diyorum. Güney Kore ile savunma sanayisi alanında ortak projeler geliştirmeye devam ediyoruz. Nükleer güç santraline yönelik görüşmelerimiz de sürüyor. Kore Elektrik Şirketi ve Türkiye Nükleer Enerji Anonim Şirketi arasında imzalanan mutabakat zaptıyla süreci bir adım daha ileriye taşımış olduk.&quot;
+Kadına Yönelik Şiddetle Uluslararası Mücadele Günü dolayısıyla 25 Kasım'da düzenlenen programa katıldıklarını belirten Erdoğan, &quot;2026-2030 dönemini kapsayan Kadına Yönelik Şiddetle Mücadele 5. Ulusal Eylem Planımızı da program vesilesiyle kamuoyumuzla paylaştık. 5 hedef, 15 strateji ve 130 faaliyetten oluşan yeni eylem planımızın kadınlar için hayırlara vesile olmasını temenni ediyorum.&quot; ifadelerini kullandı.
+Erdoğan, 26 Kasım'da Cumhurbaşkanlığı Külliyesi'nde tertiplenen 2025 TÜSEB Aziz Sancar Bilim, Hizmet ve Teşvik Ödülleri Töreni'ne katıldıklarını, ödül sahiplerini bir kez daha tebrik ettiğini söyledi.
+Cumhurbaşkanı Erdoğan, 27 Kasım'da katolik dünyasının ruhani lideri Vatikan Devlet Başkanı Papa 14. Leo'yu ve heyetini Ankara'da ağırladıklarını anımsattı.
+Görüşmelerde aile kurumuna yönelik tehditler başta olmak üzere, ortak gündemlerindeki meseleleri ele aldıklarını belirten Erdoğan, Birleşmiş Milletler çatısı altında toplam 160 üyeye ulaşan medeniyetler ittifakı girişiminin ehemmiyetine bir kez daha değindiklerini, Batı'da son dönemde tırmanışa geçen İslam düşmanlığının da gündemlerinin üst sıralarında olduğunu aktardı.
+Gazze'de İsrail'in camileri, okulları, hastane ve kiliseleri de hedef alan insanlık dışı saldırılarına dikkati çektiklerini dile getiren Erdoğan, &quot;Gerek müteveffa Papa Fransuva'nın gerekse Papa 14. Leo'nun Filistin meselesindeki ilkeli duruşunu takdirle karşıladığımızı dile getirdik. Bizim de katkımızla tesis edilen ateşkesin muhafazası, insani yardımların bölgeye ulaştırılması ve Kudüs'ü Şerif'teki tarihi statükonun korunması hususunda taşıdığımız hassasiyeti kendilerine aktardık.&quot; ifadelerini kullandı.
+Cumhurbaşkanı Erdoğan, şunları kaydetti:
+&quot;Millet olarak, ülke olarak farklı kimlik ve inançları barış içinde yaşatma noktasında eşsiz bir tecrübeye sahibiz. Bizi diğer ülkelerden farklı kılan en önemli özelliklerimizden biri de budur. Bilhassa, içinde bulunduğumuz dönemde bu vasfımızın, tecrübemizin çok değerli olduğuna inanıyorum. Farklı inançtan vatandaşlarımız ülkemizin beşeri zenginliğini oluşturuyor. Bu topraklarda yaşayan tek bir insanımızın dahi ötekileştirilmesine, dışlanmasına, ayrımcılığa maruz kalmasına müsaade etmeyiz, edemeyiz. İnşallah, bundan sonra da özgüvenli bir şekilde inanç ve kültür değerlerimiz ışığında üzerimize ne düşüyorsa yapmaya devam edeceğiz. '86 milyon olarak biz birlikte Türkiye'yiz, hep birlikte Türkiye'yiz' demeyi her daim sürdüreceğiz.&quot;
+&quot;BAŞARILARI GÖRMEZDEN GELİYORLAR&quot;
+Erdoğan, 28 Kasım'da İstanbul Atatürk Havalimanı'nda jandarma, emniyet ve sahil güvenlik teşkilatına kazandırılan 9 bin 200 yeni aracın hizmete alım töreninde olduklarını anımsatarak, yeni araçların hayırlı olmasını diledi.
+
+Ana muhalefet ve yandaşlarının uzun bir süredir FETÖ'cülerin yurt dışında fonladığı paravan kuruluşların sözde raporları üzerinden suç ve suçluyla mücadeleye gölge düşürmeye çalıştığına dikkati çeken Erdoğan, &quot;Yapıcı eleştirilerle bu mücadeleye destek olmak yerine, maalesef asılsız iddialarla emniyet mensuplarımızın fedakarlıklarını, emeklerini, hepsinden öte elde ettikleri başarıları görmezden geliyorlar. Bunun gece gündüz demeden, kimi zaman canlarını ortaya koyarak görevlerini yapan kolluk kuvvetlerimize haksızlık olduğunu bir defa burada açıkça söylemek mecburiyetindeyim.&quot; diye konuştu.
+Uluslararası kuruluşların raporlarına göre dolandırıcılık, hırsızlık, cinsel saldırı, kasten yaralama, uyuşturucu ticareti gibi bu tür suçlarla mücadelede muhalefetin devamlı örnek gösterdiği Avrupa ülkelerinden Türkiye'nin çok iyi seviyede olduğunu vurgulayan Erdoğan, &quot;Elbette gönlümüz, tek bir müessif olayın dahi yaşanmamasından yanadır. Tek bir insanımızın dahi mağdur olmasını istemeyiz. Ama hükümetimizin suç ve suçlularla mücadelesini eleştirirken insaf sınırlarının aşılmamasını, kolluk kuvvetlerimizin olağanüstü çabalarına saygı gösterilmesini haklı olarak herkesten bekliyoruz. Vatanımız uğruna can veren aziz şehitlerimizi rahmetle yad ediyor, kahraman gazilerimize şükranlarımızı sunuyorum.&quot; dedi.
+Erdoğan, 29 Kasım'da bu yıl 4'üncüsü düzenlenen İlim Yayma Ödülleri Töreni'nde ilim yayma ailesinin heyecanına ortak olduklarını hatırlatarak, bilim insanlarını tebrik etti.
+Kendi alanında Türkiye'nin en prestijli ödülleri arasında yer alan İlim Yayma Ödülleri'ne uluslararası boyut kazandırılmasını önemli gördüğünü ifade eden Erdoğan, neredeyse 25 yıldır büyük bir özveriyle millete hizmet eden ilim yayma ailesinin tüm mensuplarına teşekkür edip, çalışmalarında başarılar diledi.
+&quot;TÜM TARAFLARA GEREKLİ UYARILARDA BULUNUYORUZ&quot;
+Bu yıl Güney Afrika Cumhuriyeti'nin ev sahipliğinde düzenlenen G-20 Zirvesi'yle ilgili değerlendirmesini de partisinin grup toplantısında yapacağını dile getiren Erdoğan, Türkiye'nin son 23 yılda Afrika kıtasıyla ilişkilerinde nereden nereye geldiğinin kısa bir icmalini de çıkaracaklarını söyledi.
+Cumhurbaşkanı Erdoğan, kabine toplantısında Avrupa Birliği ile ilişkilerde son dönemde yaşanan gelişmeler dahil, dış politikadaki güncel meseleleri de ele aldıklarını belirterek, şunları kaydetti:
+&quot;Birliğe tam üyelik önümüze çıkan engellere rağmen stratejik önceliğimiz olmayı sürdürüyor. Rusya-Ukrayna arasındaki savaşın Karadeniz'deki seyrüsefer güvenliğini açıkça tehdit eder boyuta geldiği görülüyor. Cuma günü, münhasır ekonomik bölgemizde ticaret gemilerinin hedef alınması endişe verici bir tırmanmayı işaret ediyor. Bilhassa, kendi münhasır bölgemizde seyir, can ve çevre emniyetini tehdit eden bu saldırıları hiçbir şekilde mazur göremeyiz. Bu tarz durumlarla ilgili tüm taraflara gerekli uyarılarda bulunuyoruz. Savaşı bitirmeye dönük son haftalarda yaşanan hareketliliği de yakından takip ediyor, gerekli katkıyı yapmaya hazır olduğumuzu her fırsatta ifade ediyoruz.&quot;
+
+&quot;ANADOLU'DA 4 YENİ SANAYİ KORİDORU OLUŞTURACAĞIZ&quot;
+Kabinenin bir diğer gündeminin de sanayide dönüşüm olduğunu aktaran Erdoğan, iktidarları döneminde sanayiyi güçlendirmek, üretimi büyütmek ve katma değeri artırmanın daima öncelikleri olduğunu vurguladı.
+Erdoğan, organize sanayi bölgelerinin sayısını 191'den 371'e yükselttiklerini anımsatarak, şunları ifade etti:
+&quot;52 endüstri bölgesi kurduk. Planlı sanayi alanlarımızın büyüklüğünü 48 bin hektardan 155 bin hektara çıkardık. Teknolojik dönüşümü hızlandırmak için proje bazlı devlet destekleri HIT-30 ve stratejik yatırım teşvikleri ile çok sayıda yatırımın önünü açtık. Bu programlarda bugüne dek desteklediğimiz 3,6 trilyon lira tutarında 308 yatırım ile 120 bin kişilik istihdam sağladık. Şimdi ülkemizin önündeki yeni fırsatları değerlendirerek sanayileşmeye hız kazandıracağız. Sanayi alanları master planı ile planlı sanayi alanlarımızın büyüklüğünü 350 bin hektara ulaştıracağız. Anadolu'da 4 yeni sanayi koridoru oluşturacağız. Hem mevcut organize sanayi bölgelerimiz hem de yeni mega endüstriyel bölgelerin demir yolu bağlantıları ile limanlara erişimini sağlayacağız.&quot;
+&quot;TOPYEKÜN YENİ BİR KALKINMA SEFERBERLİĞİNE ÇIKIYORUZ&quot;
+Geçen yıl emek yoğun üretim yapan tekstil, hazır giyim, deri ve mobilya sektörlerinde KOBİ'lere yönelik istihdamı koruma programı başlattıklarını anımsatan Erdoğan, istihdamını koruyan KOBİ'lere çalışan başına aylık 2 bin 500 lira destek verdikleri bu programla 15 bin KOBİ'de 416 bin istihdamı koruduklarını, 22 bin ilave istihdam oluşturduklarını aktardı.
+Söz konusu programı 2026'da aylık destek tutarını 3 bin 500 liraya yükselterek ve büyük ölçekli firmaları da dahil ederek sürdüreceklerini dile getiren Erdoğan, şunları kaydetti:
+&quot;1 milyon 100 bin istihdamı koruyacak, emekçimizin ve sanayicimizin yanında olacağız. Emek yoğun sektörlerimizdeki işletmelerin batıdaki büyükşehirlerden Anadolu illerimize taşınmasını teşvik ediyoruz. 24 ilimizde kurulacak tesislerde Sosyal Güvenlik Kurumu primlerini 14 yıla kadar hükümet olarak biz karşılıyoruz. Hiçbir sektörümüzü ihmal etmeden, hiçbir şehrimizi ve bölgemizi geride bırakmadan topyekün yeni bir kalkınma seferberliğine çıkıyoruz. Rabbim yolumuzu, bahtımızı açık etsin diyorum.&quot;]]></content:encoded>
+      <link><![CDATA[https://haber.mynet.com/kabine-toplantisi-sona-erdi-cumhurbaskani-erdogan-dan-onemli-aciklamalar-110107256139]]></link>
+      <media:content url="https://imgrosetta.mynet.com.tr/file/22369723/22369723-1200x675.jpg" expression="full" width="1200" height="675" type="image/jpeg">
+        <media:description type="plain"><![CDATA[Cumhurbaşkanı Erdoğan'dan Kabine sonrası önemli açıklamalar: "Türkiye hedeflerine er ya da geç ulaşacaktır"]]></media:description>
+      </media:content>
+      <category>guncel</category>
+      <tag>guncel</tag>
+      <tag>haber</tag>
     </item>
 </channel>
 </rss>
